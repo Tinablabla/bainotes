@@ -4,5 +4,8 @@ email: martina.gubser@stud.fhgr.ch
 description: > # this means to ignore newlines until "baseurl:"
  Ein Lerntagebuch für den Kurs Bibliotheks- und Archivinformatik FS2020
  
+github:
+  is_project_page: false
+ 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman
