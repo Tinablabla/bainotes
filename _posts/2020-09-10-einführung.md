@@ -47,6 +47,7 @@
   </tr>
 </table>
 
+
 **Leistungsnachweis**
 
 Form:
@@ -78,16 +79,20 @@ Das Studium Informationswissenschaft bietet verschiedene Fachrichtungen, von wel
 
 Nunja, ob ich aufgrund meiner Majorwahl mehr Bezug dazu habe sei nun dahingestellt. Persönlich habe ich nämlich nur begrenzte Erfahrung mit dem Umgang solcher Programme. Da ich meine Ausbildung als Kauffrau bei der Credit Suisse absolviert habe, kenne ich mich besser mit dem Eröffnen von Kundenkonten und Erstellen von Kontoauszügen aus, als mit dem Katalogisieren von Büchern. In meinem zweimonatigen Fachpraktikum konnte ich das Bibliothekssystem Winmedio kennenlernen. Von meiner "Erfahrung" mit CMI STAR, die ich bei einem kurzen Schnuppertag im Stadtarchiv Uster sammeln konnte, möchte ich garnicht erst reden. Es war jedoch schön zu hören, dass es noch mehr Teilnehmer:innen gibt, die wenig Vorwissen besitzen. 
 
-Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im letzten Semester nur spärlich besuchen konnte, habe ich zwar ein paar Dinge bereits gesehen, jedoch konnte ich sie nicht weiter vertiefen. 
+Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im letzten Semester nur spärlich besuchen konnte, habe ich zwar ein paar Dinge bereits gesehen, jedoch konnte ich sie nicht weiter vertiefen. Aufgrund meinem allgemeinen Interesse an Informatikthemen und grossen Neugierde bin ich jetzt schon sehr gespannt auf den Kurs. Der Kurs wird in diesem Semester von zwei Dozenten, Felix Lohmeier und Sebastian Meyer, geführt. Dies freut mich ungemein, da ich im letzten Semester der Eindruck hatte, dass gerade bei technischen Problemen Unterstützung nützlich gewesen wäre. Eine weitere Erneuerung ist die Umstellung auf ausschliesslich Online-Vorlesungen. Diese Umstellung machte mich im ersten Moment ein wenig stutzig, da ich es schwierig finde, technische Probleme über (Voice-)Chat zu lösen. 
+
 
 **Links**
-Einführung in Minima
+
+Einführung in Minima:
 Rep + Blog selbst
 https://github.com/jsanz/gh-pages-minima-starter
 https://jsanz.github.io/gh-pages-minima-starter/
 
-Markup
+Markup:
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview
+
+Zeichenzähler: https://xn--zeichenzhler-ncb.de/de/
 
 
