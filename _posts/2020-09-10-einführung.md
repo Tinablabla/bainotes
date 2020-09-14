@@ -95,4 +95,8 @@ https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Ma
 
 Zeichenzähler: https://xn--zeichenzhler-ncb.de/de/
 
+Skript: https://bain.felixlohmeier.de/#/
+Gemeinsames Dokument: https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?both
+
+
 
