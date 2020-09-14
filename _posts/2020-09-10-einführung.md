@@ -1,10 +1,7 @@
 -- Ein Beitrag zum Modul BAIN, meinen Erwartungen und Erfahrungen --
 
-Das Studium Informationswissenschaft bietet verschiedene Fachrichtungen, von welchen ich den Major Bibliotheksmanagement gewählt habe. Somit war mir bewusst, dass irgendwann der Tag kommen wird, an dem ich ein Modul, welches in die Tiefen der in der Praxis angewendeten Programme der Archive und Bibliotheken eintaucht, besuchen werde. Das dieses Modul jedoch sogar ein Pflichtmodul ist, erstaunt mich. Schliesslich haben die Informationsmanager und Usabibilty Engineers keinerlei Bezug dazu. 
+> Im Modul Bibliotheks- und Archivinformatik lernen die Studierenden die in Bibliotheken und Archiven eingesetzten Softwares und Technologien kennen. Funktionsweisen von Bibliothekskatalogen (bis hin zu Cloud-Konzepten), von Publikationsplattformen, Repositories etc. werden erläutert. Verschiedene Suchtechnologien werden analysiert und im Einsatz über unterschiedliche Datenbestände angewandt. Es wird gezeigt, wie Metadatenstandards und Austauschprotokolle eingesetzt und genutzt werden. (Semesterinformation, 2020)
 
-Nunja, ob ich aufgrund meiner Majorwahl mehr Bezug dazu habe sei nun dahingestellt. Persönlich habe ich nämlich nur begrenzte Erfahrung mit dem Umgang solcher Programme. Da ich meine Ausbildung als Kauffrau bei der Credit Suisse absolviert habe, kenne ich mich besser mit dem Eröffnen von Kundenkonten und Erstellen von Kontoauszügen aus, als mit dem Katalogisieren von Büchern. In meinem zweimonatigen Fachpraktikum konnte ich das Bibliothekssystem Winmedio kennenlernen. Von meiner "Erfahrung" mit CMI STAR, die ich bei einem kurzen Schnuppertag im Stadtarchiv Uster sammeln konnte, möchte ich garnicht erst reden. Es war jedoch schön zu hören, dass es noch mehr Teilnehmer:innen gibt, die wenig Vorwissen besitzen. 
-
-Der Kurs startete am 10. September 2020 und wird 10 Unterrichtseinheiten beinhalten, welche alle online stattfinden werden. Zu jeder Unterrichtseinheit wird es ein Lerntagebucheintrag geben, ausserdem wird ein Einführungs- und einen Schlusseintrag verlangt.
 
 **Termine und Themen**
 <table style="width:100%">
@@ -50,6 +47,38 @@ Der Kurs startete am 10. September 2020 und wird 10 Unterrichtseinheiten beinhal
   </tr>
 </table>
 
+**Leistungsnachweis**
+
+Form:
+- Lerntagebuch in einem Blog mit GitHub, gerne öffentlich mit GitHub Pages oder alternativ in einem privaten GitHub Repository.
+
+- ein Blogartikel (3000 - 6000 Zeichen) zu jeder Lehreinheit
+
+- Zusätzlich ein Einführungsartikel (wo bin ich gestartet?) und ein Abschlussartikel (was habe ich (nicht) gelernt?)
+
+- Veröffentlichung der Blogartikel jeweils 1 Tag vor der darauffolgenden Lehreinheit. Abgabe und Benotung erfolgt erst zum Semesterende, daher sind Nachbesserungen jederzeit möglich.
+
+- persönliche Erfahrungen schildern: Wie war das persönliche Vorgehen (Abweichungen vom Skript)? Wo gab es Schwierigkeiten? Was waren die Aha-Effekte? Persönliche Stellungnahme zu den Inhalten ist ausdrücklich erwünscht.
+
+
+Bewertungskriterien:
+- begründete kritische Auseinandersetzung mit den Lerninhalten
+
+- Kontextualisierung der Lerninhalte (Zusatzinformationen, Querverweise, Screenshots)
+
+- verständliche Darstellung in eigenen Worten
+
+- Vollständigkeit und Einhaltung der Form
+
+
+
+**Meine Erwartungen und Erfahrungen**
+
+Das Studium Informationswissenschaft bietet verschiedene Fachrichtungen, von welchen ich den Major Bibliotheksmanagement gewählt habe. Somit war mir bewusst, dass irgendwann der Tag kommen wird, an dem ich ein Modul, welches in die Tiefen der in der Praxis angewendeten Programme der Archive und Bibliotheken eintaucht, besuchen werde. Das dieses Modul jedoch sogar ein Pflichtmodul ist, erstaunt mich. Schliesslich haben die Informationsmanager und Usabibilty Engineers keinerlei Bezug dazu. 
+
+Nunja, ob ich aufgrund meiner Majorwahl mehr Bezug dazu habe sei nun dahingestellt. Persönlich habe ich nämlich nur begrenzte Erfahrung mit dem Umgang solcher Programme. Da ich meine Ausbildung als Kauffrau bei der Credit Suisse absolviert habe, kenne ich mich besser mit dem Eröffnen von Kundenkonten und Erstellen von Kontoauszügen aus, als mit dem Katalogisieren von Büchern. In meinem zweimonatigen Fachpraktikum konnte ich das Bibliothekssystem Winmedio kennenlernen. Von meiner "Erfahrung" mit CMI STAR, die ich bei einem kurzen Schnuppertag im Stadtarchiv Uster sammeln konnte, möchte ich garnicht erst reden. Es war jedoch schön zu hören, dass es noch mehr Teilnehmer:innen gibt, die wenig Vorwissen besitzen. 
+
+Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im letzten Semester nur spärlich besuchen konnte, habe ich zwar ein paar Dinge bereits gesehen, jedoch konnte ich sie nicht weiter vertiefen. 
 
 **Links**
 Einführung in Minima
@@ -61,4 +90,4 @@ Markup
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview
 
-3000 - 6000 Zeichen pro Blogartikel
+
