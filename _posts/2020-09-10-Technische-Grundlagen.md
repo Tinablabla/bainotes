@@ -17,3 +17,6 @@ Der Hund heisst **Bello**
     Der Hund heisst **Bello**
 
 An diesem Beispiel ist einfach zu erkennen, dass das Öffnen und Schliessen der Tags in HTML viel mehr Aufwand bereitet, als die Setzung von zwei zusätzlichen Zeichen vor und nach dem Wort. 
+
+
+In der Praxis kann Markdown in verschiedenen Situationen angewendet werden: Reddit ist eine Webseite, auf welcher Benutzer in verschiedenen Foren Inhalte hochladen, teilen und diskutieren können. Diese Beiträge können (wenn gewünscht) mit Markdown formatiert werden. Auch dieser Lerntagebucheintrag ist mit Markdown geschrieben. Der Einführungsartikel ist für mich zur Zeit noch ein kleiner Spielplatz für verschiedene Markdown-Befehle
