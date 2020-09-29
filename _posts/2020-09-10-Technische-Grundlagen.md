@@ -38,7 +38,7 @@ Bereits in ARIS hatten wir das Vergnügen mit der UNIX Shell zu arbeiten. Leider
 - spart Speicherplatz auf der eigenen Festplatte
 - VM könnten einfach übertragen und synchronisiert werden
 
-Gleich vom ersten Punkt durfte ich in der ersten Vorlesung profitieren. Meine VM konnte keine Verbindung zum Internet herstellen, obwohl ich an meinem Laptop keine Probleme mit der Internetverbindung feststellen konnte. Herr Lohmeier konnte dies der IT weitergeben und die behoben das Problem. Aufgrund dessen konnte ich jedoch die Carpetry Lessons nicht durchführen. Da ich jedoch bereits mit der UNIX Shell vertraut bin, habe ich nicht viel verpasst. 
+Gleich vom ersten Punkt durfte ich in der ersten Vorlesung profitieren. Meine VM konnte keine Verbindung zum Internet herstellen, obwohl ich an meinem Laptop keine Probleme mit der Internetverbindung feststellen konnte. Herr Lohmeier konnte dies der IT weitergeben und die behoben das Problem. Aufgrund dessen konnte ich jedoch die Carpentry Lessons nicht durchführen. Da ich jedoch bereits mit der UNIX Shell vertraut bin, habe ich nicht viel verpasst. 
 
 ### Learnings:
 - Bei Problemen nicht verzagen, Felix Lohmeier fragen. 
