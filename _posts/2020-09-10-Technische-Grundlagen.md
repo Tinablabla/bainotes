@@ -25,7 +25,7 @@ Der Einführungsartikel ist für mich zur Zeit noch ein kleiner Spielplatz für 
 
 ### Learnings
 - Markdown ist eine Auszeichnungssprache, wie HTML, jedoch nur für Text
-- Soll das verfassen und formatieren vereinfachen
+- Soll das Verfassen und Formatieren vereinfachen
 - Markdown kann HTML Tags einbinden
 
 ### Quellen
