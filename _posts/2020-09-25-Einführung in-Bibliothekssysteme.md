@@ -1,9 +1,8 @@
 -- titel --
 
-Heute starteten wir mit ein paar Kommentaren und Ergänzungen der Dozenten zu den Lerntagebüchern, konnten eine Pullrequest mit Git machen, lernten den Unterschied zwischen MARC21 und Dublin Core und installierten mehr oder weniger erfolgreich Koha. Als erstes möchte ich zuerst über mein heutiges Vertiefungsthema reden, bevor ich auf die restlichen Punkte eingehe. 
+Heute starteten wir mit ein paar Kommentaren und Ergänzungen der Dozenten zu den Lerntagebüchern, installierten und verwendeten Git, lernten den Unterschied zwischen MARC21 und Dublin Core und installierten mehr oder weniger erfolgreich Koha. Als erstes möchte ich zuerst über mein heutiges Vertiefungsthema reden, bevor ich auf die restlichen Punkte eingehe. 
 
 ## Git und Github
-
 Wir wissen, dass Github Repositories statische Webseiten erstellt werden können. Diese Webseite ist mit Github erstellt und liegt in einem Repository. Mittels Jekyll werden die Markup- und HTML-Dateien intepretiert und als Webseite angezeigt. 
 Git ist eine Versionenkontrollsoftware, sie macht genau das, sie kontrolliert Versionen und vergleicht sie miteinander. Dies ermöglicht dem Benutzer die Wiederherstellung einer älteren Version. Git wird lokal auf dem Rechner installiert, ist gratis und ist einfach zu bedienen. Eine Besonderheit von Git ist das Branching Model, dass dir erlaubt eine Kopie des aktuellen Codes zu machen und innerhalb des Branches neue Ideen auszuprobieren ohne den originalen Code kapput zu machen. 
 
@@ -11,16 +10,24 @@ Github hingegen ist ein Git repository hosting serice, eine online Datenbank, we
 
 Im Rahmen der Vorlesung konnten wir eine Pull-Request an Herrn Lohmeier stellen.  Die Installation von Git war erfolgreich, jedoch war ich unfähig den Texteditor zu benutzen. Zuerst fehlten mir die Rechte, welche ich mir glücklicherweise selbst vergeben konnte, danach kam jedoch der Editor ins Spiel, welcher mir anfangs Kopfschmerzen bereitet hatte. Dank [dieser Webseite](http://www.linuxandubuntu.com/home/how-to-use-vi-editor#:~:text=vi%20is%20a%20screen%2Doriented,Ubuntu%2C%20Linux%20Mint%20or%20Debian) fand ich mich dann doch noch zurecht und konnte die Request doch noch machen. 
 
-Auch wenn es unwahrscheindlich ist, dass ich jemals ein Programm schreibe, möchte ich Github im Hinterkopf behalten. Ich könnte mir vorstellen Github wieder als Blog zu nutzen, 
+Auch wenn es unwahrscheindlich ist, dass ich jemals ein Programm schreibe, möchte ich Github im Hinterkopf behalten. Ich könnte mir vorstellen Github wieder als Blog zu nutzen, da mir Markup gefällt und die Versionenkontrolle für einen gemeinsamen Blog nützlich sein könnte. Ein weiterer Nutzen könnte vielleicht ein gemeinsames Learning-Repository sein, in welchem eine ganze Klasse ihre Notizen und Skripts eintragen und Zusammenfassungen gemeinsam erstellen können. So könnten auch spätere Generationen von Informationswissenschaftlern auf diese Dateien zugreifen. 
 
+### Learnings:
+- Git ist eine offline Versionenkontrollsoftware, Github ist die online-cloud Version von Git.
+- Github ist vor allem für Open-Source-Projekte verwendet.
+- Pull-Request selbst machen
+
+### Quellen:
+- <https://blog.devmountain.com/git-vs-github-whats-the-difference/>
+
+## MARC21 und Dublin Core
+
+
+
+## Koha
 
 
 Inhalt der Vorlesung
-- Kommentare zu Lerntagebüchern
-  CodiMD wird zu HedgeDoc, Jekyll, Bilder (rechte beachten, in neuen Ordner einfügen)
-- Versionskontrolle mit Git
-  Git nicht auf VM, Git installiert, dann Editor nicht händeln können, https://de.wikipedia.org/wiki/Chmod und http://www.linuxandubuntu.com/home/how-to-use-vi-editor#:~:text=vi%20is%20a%20screen%2Doriented,Ubuntu%2C%20Linux%20Mint%20or%20Debian. sei dank, hat es dann doch funktioniert.
-  Carprentry lesson ist empfehlenswert, git wird nicht weiter verwendet, aber kann für das lerntagebuch verwendet werden. Konnte schlussentlich eine Pull Request machen.
 - Funktion und Aufbau von Bibliothekssystemen 1/2 
   - Metadatenstandards in Bibliotheken (MARC21)
     Unterschied MARC21/DC
