@@ -11,6 +11,8 @@ Github hingegen ist ein Git repository hosting serice, eine online Datenbank, we
 
 Im Rahmen der Vorlesung konnten wir eine Pull-Request an Herrn Lohmeier stellen.  Die Installation von Git war erfolgreich, jedoch war ich unfähig den Texteditor zu benutzen. Zuerst fehlten mir die Rechte, welche ich mir glücklicherweise selbst vergeben konnte, danach kam jedoch der Editor ins Spiel, welcher mir anfangs Kopfschmerzen bereitet hatte. Dank [dieser Webseite](http://www.linuxandubuntu.com/home/how-to-use-vi-editor#:~:text=vi%20is%20a%20screen%2Doriented,Ubuntu%2C%20Linux%20Mint%20or%20Debian) fand ich mich dann doch noch zurecht und konnte die Request doch noch machen. 
 
+Auch wenn es unwahrscheindlich ist, dass ich jemals ein Programm schreibe, möchte ich Github im Hinterkopf behalten. Ich könnte mir vorstellen Github wieder als Blog zu nutzen, 
+
 
 
 Inhalt der Vorlesung
@@ -25,3 +27,8 @@ Inhalt der Vorlesung
   - Installation und Konfiguration von Koha
     Funktioniert bis zur aufrufung der Webseite http://bibliothek-intra.meine-schule.org/, da komme ich nicht weiter. Notfalls mit Demo arbeiten. Dozent geht dem Problem nach. 
   - Aufgabe
+
+
+
+Quelle:
+https://blog.devmountain.com/git-vs-github-whats-the-difference/
