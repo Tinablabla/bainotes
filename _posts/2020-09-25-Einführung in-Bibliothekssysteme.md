@@ -1,4 +1,4 @@
--- titel --
+-- Versionenkontrollen, Metadatenstandarts und die Installation von Koha --
 
 Heute starteten wir mit ein paar Kommentaren und Ergänzungen der Dozenten zu den Lerntagebüchern, installierten und verwendeten Git, lernten den Unterschied zwischen MARC21 und Dublin Core und installierten mehr oder weniger erfolgreich Koha. Als erstes möchte ich zuerst über mein heutiges Vertiefungsthema reden, bevor ich auf die restlichen Punkte eingehe. 
 
@@ -21,21 +21,19 @@ Auch wenn es unwahrscheindlich ist, dass ich jemals ein Programm schreibe, möch
 - <https://blog.devmountain.com/git-vs-github-whats-the-difference/>
 
 ## MARC21 und Dublin Core
+Bei der Übung zum Vergleich von den beiden Standards wurde uns anschaulich gezeigt, was die Unterschiede zwischen MARC21 und Dublin Core sind. MARC21 kam dabei, meiner Meinung nach, eher schlecht weg. Es wirkte unübersichtlich und voll von nicht intepretierbarer Codes. Während DC viel schlanker wirkte, waren auch die unterschiedlichen Werke klar voneinander trennbar. 
+Dafür ist es in MARC21 möglich, spezifische Codes einzusetzten, um Elemente genauer zu beschreiben. DC kennt beispielsweise nur einen Code für Contributor, wo MARC gleich sechs Codes kennt, welche alle in unterschiedlicher Weise genutzt werden.
 
+### Learnings:
+- DC einfacher zu lernen
+- MARC21 beschreibt genauer
+- Im XML Format ist DC einfacher lesbar
 
+### Quellen: 
+- <https://docplayer.net/37045281-Comparison-of-dublin-core-and-marc-marc21.html>
 
 ## Koha
+Zum Schluss konnten wir bereits vorbereitungen für die nächste Vorlesung treffen, indem wir das open-source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen. 
 
-
-Inhalt der Vorlesung
-- Funktion und Aufbau von Bibliothekssystemen 1/2 
-  - Metadatenstandards in Bibliotheken (MARC21)
-    Unterschied MARC21/DC
-  - Installation und Konfiguration von Koha
-    Funktioniert bis zur aufrufung der Webseite http://bibliothek-intra.meine-schule.org/, da komme ich nicht weiter. Notfalls mit Demo arbeiten. Dozent geht dem Problem nach. 
-  - Aufgabe
-
-
-
-Quelle:
-https://blog.devmountain.com/git-vs-github-whats-the-difference/
+### Learnings:
+- nochmals genau kontrollieren, welche Codes bereits drin sind und welche nicht.
