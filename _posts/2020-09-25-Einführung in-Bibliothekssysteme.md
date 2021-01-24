@@ -38,5 +38,4 @@ Dafür ist es in MARC21 möglich, spezifische Codes einzusetzten, um Elemente ge
 ## Koha
 Zum Schluss konnten wir bereits Vorbereitungen für die nächste Vorlesung treffen, indem wir das open-source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen.
 
-### Learnings:
-- nochmals genau kontrollieren, welche Codes bereits drin sind und welche nicht.
+Zeichen: 4331 (Ohne Nachtrag)
