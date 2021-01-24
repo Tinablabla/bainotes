@@ -18,7 +18,7 @@ Auch wenn es unwahrscheindlich ist, dass ich jemals ein Programm schreibe, möch
 - Pull-Request selbst machen
 
 ### Quellen:
-- <https://blog.devmountain.com/git-vs-github-whats-the-difference/>
+- [Devmountain - Git vs. GitHub: What's the Difference?](https://blog.devmountain.com/git-vs-github-whats-the-difference/)
 
 ### Nachtrag
 Nur einen Tag nachdem ich diesen Beitrag geschrieben habe, sind mein Partner und ich auf die Idee gekommen, einen Rezept-Manager zu benutzen. Damit wollen wir eine Sammlung von Rezepten erstellen, welche wir selbst einmal gekocht haben und gut funktionierten. Nun war ich ein bisschen in den Weiten des Internets unterwegs und fand heraus, dass einige Programme auf Github existieren und gratis von Github gehostet werden können. Ein Beispiel, dass mir zumindest optisch gefällt, wäre [Chowdown](https://chowdown.io/). Ich werde sicher dran bleiben und zusehen, dass ich das Ganze selbst hinbekomme. Jetzt nachträglich bin ich sehr froh haben wir Python gelernt und eine Einführung in Github erhalten haben. So eröffnet sich für uns nicht nur beruflich sondern auch privat ganz neue Türen. Ausserdem: wenn man etwas aus intrinsischer Motivation nebenbei lernt (z.B: Programmieren während dem Rezepte eintragen), lernt man viel schneller. Somit, en guetä! Jetzt muss ich nurnoch zusehen, dass das Essen nicht kalt wird :).
@@ -33,10 +33,10 @@ Dafür ist es in MARC21 möglich, spezifische Codes einzusetzten, um Elemente ge
 - Im XML Format ist DC einfacher lesbar
 
 ### Quellen:
-- <https://docplayer.net/37045281-Comparison-of-dublin-core-and-marc-marc21.html>
+- [DOCPLAYER - Compaison of Dublin Core and MARC/MARC21](https://docplayer.net/37045281-Comparison-of-dublin-core-and-marc-marc21.html)
 
 ## Koha
-Zum Schluss konnten wir bereits Vorbereitungen für die nächste Vorlesung treffen, indem wir das open-source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen. 
+Zum Schluss konnten wir bereits Vorbereitungen für die nächste Vorlesung treffen, indem wir das open-source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen.
 
 ### Learnings:
 - nochmals genau kontrollieren, welche Codes bereits drin sind und welche nicht.
