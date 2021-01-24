@@ -81,23 +81,24 @@ Nunja, ob ich aufgrund meiner Majorwahl mehr Bezug dazu habe sei nun dahingestel
 
 Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im letzten Semester nur spärlich besuchen konnte, habe ich zwar ein paar Dinge bereits gesehen, jedoch konnte ich sie nicht weiter vertiefen. Aufgrund meinem allgemeinen Interesse an Informatikthemen und grossen Neugierde bin ich jetzt schon sehr gespannt auf den Kurs. Der Kurs wird in diesem Semester von zwei Dozenten, Felix Lohmeier und Sebastian Meyer, geführt. Dies freut mich ungemein, da ich im letzten Semester den Eindruck hatte, dass gerade bei technischen Problemen Unterstützung nützlich gewesen wäre. Eine weitere Erneuerung ist die Umstellung auf ausschliesslich Online-Vorlesungen. Diese Umstellung machte mich im ersten Moment ein wenig stutzig, da ich es schwierig finde, technische Probleme über (Voice-)Chat zu lösen.
 
+**Disclaimer**
+
+Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurden das [Skript](https://bain.felixlohmeier.de/#/) und das [gemeinsame Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?view) zu Rate gezogen, diese werden jedoch nicht spezifisch unter jedem Beitrag als Quelle ausgewiesen. Zur Orientierung wird jeweils unter den Beiträgen die Anzahl der Zeichen angegeben.
 
 **Links**
 
 Einführung in Minima:
-Rep + Blog selbst
+
 <https://github.com/jsanz/gh-pages-minima-starter>
 <https://jsanz.github.io/gh-pages-minima-starter/>
 
 Markup:
+
 <https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax>
 <https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview>
 
 Zeichenzähler: <https://xn--zeichenzhler-ncb.de/de/>
 
 Skript: <https://bain.felixlohmeier.de/#/>
+
 Gemeinsames Dokument: <https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?both>
-
-
-**Disclaimer**
-Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurden das [Skript](https://bain.felixlohmeier.de/#/) und das [gemeinsame Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?view) zu Rate gezogen, diese werden jedoch nicht spezifisch unter jedem Beitrag als Quelle ausgewiesen. Zur Orientierung wird jeweils unter den Beiträgen die Anzahl der Zeichen angegeben. 
