@@ -36,5 +36,5 @@ Die Software hinter der Research Collection basiert auf DSpace, eine Open Source
 - Die Research Collection der ETH Zürich vereint verschiedene Repositories
 
 ### Quellen:
-- [Research Collection -- About](https://www.research-collection.ethz.ch/about))
+- [Research Collection -- About](https://www.research-collection.ethz.ch/about)
 - Hirschmann, Barbara (2018): [Die Research Collection der ETH Zürich](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/327719/Research_Collection_Hirschmann.pdf?sequence=1&isAllowed=y). In: ABI Technik 38 (3), 223-233. DOI: 10.3929/ethz-b-000327719.
