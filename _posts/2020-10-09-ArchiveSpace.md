@@ -49,46 +49,26 @@ RiC besteht aus drei Teilen:
 RiC befindet sich noch in der Entwurfphase. Es ist jedoch eine Verabschiedung der Version 1.0 Ende 2020 geplant, welche jedoch aufgrund der COVID-19-Pandemie in Verzug geraten könnte. Geplant ist, die ersten beiden Teile des RiC in der Version 1.0 zu veröffentlichen und danach den dritten Teil zu erarbeiten. Seit März 2020 ist die [Source der Ontologie (RiC-O)](https://github.com/ICA-EGAD/RiC-O) auf GitHub aufrufbar.
 
 #### Fazit
-ISAD(G) wurde zu einer Zeit entwickelt, in der die Digitalisierung erst begann und deshalb auch im Standard nicht weiter beachtet wurde. RiC wirkt dahingehend vielversprechend und zukunftsorientiert. Es macht Sinn, Metadaten zu verknüpfen und allen Gedächnisinstitutionen zugänglich zu machen. Jedoch fällt bei den Recherchen auf, dass die Entwicklung des Standards sehr undurchsichtig ist. Die mangelnde Transparenz wurde auch von InterPARES Trust als Kritik angebracht. Da es sich jedoch um eine Weiterentwicklung der bestehenden Standards handelt, wird ein kompletter Paradigmenwechsel ausbleiben und vertraute Muster wiederkehren. Dadurch, dass auch Baum-Hierarchien in RiC abgebildet werden können, sollte eine Überführung in der Theorie einfach möglich sein. Wie die technsichen Lösungen dazu aussehen, werden wir in den nächsten Jahren erfahren. 
+ISAD(G) wurde zu einer Zeit entwickelt, in der die Digitalisierung erst begann und deshalb auch im Standard nicht weiter beachtet wurde. RiC wirkt dahingehend vielversprechend und zukunftsorientiert. Es macht Sinn, Metadaten zu verknüpfen und allen Gedächnisinstitutionen zugänglich zu machen. Jedoch fällt bei den Recherchen auf, dass die Entwicklung des Standards sehr undurchsichtig ist. Die mangelnde Transparenz wurde auch von InterPARES Trust als Kritik angebracht. Da es sich jedoch um eine Weiterentwicklung der bestehenden Standards handelt, wird ein kompletter Paradigmenwechsel ausbleiben und vertraute Muster wiederkehren. Dadurch, dass auch Baum-Hierarchien in RiC abgebildet werden können, sollte eine Überführung in der Theorie einfach möglich sein. Die praktische Überführung der Daten und die dazu erstellten technsichen Lösungen werden die grössere Herausforderung darstellen.
 
 ### Learnings:
 - ISAD(G) ist der Standard für die Verzeichnung von Archivalien
 - Wichtige Aspekte des Standards sind die Verzeichnungsstufen, Verzeichnungselemente und das Provenienzprinzip
 - In der Schweiz wurde eine Richtlinie zur Umsetzung des Standards erarbeitet
 - RiC soll alle bisherigen Standards ersetzen und zusammenführen
--
+- Basiert auf semantischen Technologien
+- Bringt die Archive einen Schritt weiter in die Digitalisierung
 
 ### Quellen:
 - [Schweizerische Richtlinie für die Umsetzung von ISAD(G)](https://vsa-aas.ch/wp-content/uploads/2015/06/Richtlinien_ISAD_G_VSA_d.pdf)
 - [ISAD(G): Internationale Grundsätze für die archivische Verzeichnung](https://www.ica.org/sites/default/files/CBPS_2000_Guidelines_ISAD%28G%29_Second-edition_DE.pdf)
-- [Webinar VSA AG Normen und Standards, 1.7.2020: Mehrdimensionale Erschliessung mit
-Records in Contexts (RiC)](https://wiki.docuteam.ch/lib/exe/fetch.php?media=docuteam:praes_vsa-ric_20200701_wildi.pdf)
--[ogdan Florin Popovici: “Records in Contexts – Towards a New Level in Archival Description?”](http://www.pokarh-mb.si/uploaded/datoteke/Radenci/radenci_2016/013-031_popovici_2016.pdf)
+- [Webinar VSA AG Normen und Standards, 1.7.2020: Mehrdimensionale Erschliessung mit Records in Contexts (RiC)](https://wiki.docuteam.ch/lib/exe/fetch.php?media=docuteam:praes_vsa-ric_20200701_wildi.pdf)
+- [Bogdan Florin Popovici: “Records in Contexts – Towards a New Level in Archival Description?”](http://www.pokarh-mb.si/uploaded/datoteke/Radenci/radenci_2016/013-031_popovici_2016.pdf)
 
-
-
-Zwischenstand:
+Zwischenstand: 5210
 
 ## ArchiveSpace
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+kurzhalten, schnell beschreiben
 
 
 ### Learnings:
