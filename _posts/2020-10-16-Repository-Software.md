@@ -24,10 +24,17 @@ Es können verschiedne Objekte in einem Repository verwaltet werden. Beispiele d
 
 In vielen Fällen beinhltet ein Repository auch eine Funktion zu Versionsverwaltung. Ausserdem werden sie häufig im Dokumenten- und Content-Management eingesetzt und es können Metadaten für die Inhalte vergeben werden.
 
-Ein mir bekanntes Repository ist die [Research Collection](https://www.research-collection.ethz.ch/) der ETH Zürich. Sie versteht sich als umfassende Datenbank für wissenschaftliche Publikationen, die an der ETH Zürich entstanden sind. Sie wurde als Instrument zur Umsetzung der Open-Access-Policy der ETH Zürich eingeführt, die es erlaubt wissenschaftliche Arbeiten ausserhalb des traditionellen Weges zu veröffentlichen. Ausserdem bietet sie den Forschenden die Möglichkeit, Forschungsdaten als eigenständige Publikation oder als Supplementary Material zu einem Artikel oder Dissertatin zu veröffentlichen. Für Personen, welche die Research Collection durchsuchen wollen, gibt es verschiedene Wege dies zu tun. Einerseits verfügt über ein klassisches Suchfeld und einem Menü. Im Menü erhält man die Möglichkeit nach Organisationseinheiten, Publikationstypen und nach Autoren zu suchen.  Somit erfüllt die Research Collection die Funktionen einer Hochschulbibliographie, eines Open-Access-Repository und eines Forschungsdatenbank-Repository
+#### Research Collection der ETH Zürich
 
+Ein mir bekanntes Repository ist die [Research Collection](https://www.research-collection.ethz.ch/) der ETH Zürich. Sie versteht sich als umfassende Datenbank für wissenschaftliche Publikationen, die an der ETH Zürich entstanden sind. Sie wurde als Instrument zur Umsetzung der Open-Access-Policy der ETH Zürich eingeführt, die es erlaubt wissenschaftliche Arbeiten ausserhalb des traditionellen Weges zu veröffentlichen. Ausserdem bietet sie den Forschenden die Möglichkeit, Forschungsdaten als eigenständige Publikation oder als Supplementary Material zu einem Artikel oder Dissertatin zu veröffentlichen. Für Personen, welche die Research Collection durchsuchen wollen, gibt es verschiedene Wege dies zu tun. Einerseits verfügt über ein klassisches Suchfeld und einem Menü. Im Menü erhält man die Möglichkeit nach Organisationseinheiten, Publikationstypen und nach Autoren zu suchen.  Somit erfüllt die Research Collection die Funktionen einer Hochschulbibliographie, eines Open-Access-Repository und eines Forschungsdatenbank-Repository.
 
+Die Software hinter der Research Collection basiert auf DSpace, eine Open Source Sofware, welche auch in der Vorlesung im Rahmen einer Demo ausprobiert werden konnte.
+
+### Learnings:
+- Repositories verwaltete Verzeichnisse
+- Es können verschiedene Objekte verwaltet werden
+- Die Research Collection der ETH Zürich vereint verschiedene Repositories
 
 ### Quellen:
 - [Research Collection -- About](https://www.research-collection.ethz.ch/about))
-- Hirschmann, Barbara (2018): [Die Research Collection der ETH Zürich](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/327719/Research_Collection_Hirschmann.pdf?sequence=1&isAllowed=y). 11 p. In: ABI Technik 38 (3), 223-233. DOI: 10.3929/ethz-b-000327719.
+- Hirschmann, Barbara (2018): [Die Research Collection der ETH Zürich](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/327719/Research_Collection_Hirschmann.pdf?sequence=1&isAllowed=y). In: ABI Technik 38 (3), 223-233. DOI: 10.3929/ethz-b-000327719.
