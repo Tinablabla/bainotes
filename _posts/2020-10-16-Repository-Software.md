@@ -1,6 +1,6 @@
 --Untertitel--
 
-Nachdem in der letzten Vorlesung zu wenig Zeit für ArchivesSpace geblieben ist, wurde dies in der heutigen Vorlesung nachgeholt. Wir möchten uns jedoch kurz mit dem Marktüberblick der Archivsysteme auseinandersetzen und Repository-Softwares für Publikationen und Forschungsdaten anschauen. Da ich zeitgleich in diesem Semester Digitale Langzeitarchivierung belege und eine Arbeit über die Langzeitarchivierung von Forschungsdaten schreibe, ist dieses Thema von besonderem Interesse.
+Nachdem in der letzten Vorlesung zu wenig Zeit für ArchivesSpace geblieben ist, wurde dies in der heutigen Vorlesung nachgeholt. Wir möchten uns jedoch kurz mit dem Marktüberblick der Archivsysteme auseinandersetzen und Repository-Softwares für Publikationen und Forschungsdaten anschauen. Da ich zeitgleich in diesem Semester Digitale Langzeitarchivierung belege und eine Arbeit über die Langzeitarchivierung von Forschungsdaten schreibe, ist für mich dieses Thema von besonderem Interesse.
 
 ## Marktüberblick der Archivsysteme
 In der Vorlesung werden uns verschiedene Softwares aufgezählt:
@@ -14,7 +14,7 @@ CMISTAR wird in der ETH sowie im Stadtarchiv Uster verwenndet und ist mir persö
 
 ## Repository-Software
 
-[Wikipedia](https://de.wikipedia.org/wiki/Repository#:~:text=Ein%20Repository%20(englisch%20f%C3%BCr%20Lager,Objekte%20f%C3%BCr%20ein%20digitales%20Archiv.) :
+[Wikipedia](https://de.wikipedia.org/wiki/Repository#:~:text=Ein%20Repository%20englisch%20f%C3%BCr%20Lager,Objekte%20f%C3%BCr%20ein%20digitales%20Archi):
 >Ein Repository [...] ist ein verwaltetes Verzeichnis zur Speicherung und Beschreibung digitaler Objekte für ein digitales Archiv.
 
 Es können verschiedne Objekte in einem Repository verwaltet werden. Beispiele dazu sind
