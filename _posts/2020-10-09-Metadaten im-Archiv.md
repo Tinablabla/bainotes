@@ -1,8 +1,8 @@
--- Von Metadatenstandards und dem Archivsystem ArchiveSpace --
+-- Von Metadatenstandards und dem Archivsystem ArchivesSpace --
 
-In der Vorlesung vom 10. Oktober 2020 wurde sich dem Archivieren gewidmet, genauer gesagt den Metadatenstandards von Archiven und dem ArchiveSpace. Da die Zeit ein wenig knapp berechnet wurde, konnten nicht alle vorgesehenen Punkte dieser Vorlesung abgehandelt werden, so musste zum Beispiel auf zwei Übungen mit ArchiveSpace und die Marktübersicht von Archivsystemen verzichtet werden. Diese wurden in der nächsten Vorlesung behandelt.
+In der Vorlesung vom 10. Oktober 2020 wurde sich dem Archivieren gewidmet, genauer gesagt den Metadatenstandards von Archiven und dem ArchivesSpace. Da die Zeit ein wenig knapp berechnet wurde, konnten nicht alle vorgesehenen Punkte dieser Vorlesung abgehandelt werden, so musste zum Beispiel auf zwei Übungen mit ArchivesSpace und die Marktübersicht von Archivsystemen verzichtet werden. Diese wurden in der nächsten Vorlesung behandelt.
 
-In diesem Beitrag wird das Thema Metadatenstandards vertieft. Als erstes wird wiederholt, was ISAD(G) ist und beinhaltet. RiC gewann mein Interesse und soll danach genauer angeschaut und ein kurzes Fazit gezogen werden. Danach wird kurz  ArchiveSpace beschrieben.
+In diesem Beitrag wird das Thema Metadatenstandards vertieft. Als erstes wird wiederholt, was ISAD(G) ist und beinhaltet. RiC gewann mein Interesse und soll danach genauer angeschaut und ein kurzes Fazit gezogen werden. Danach wird kurz  ArchivesSpace beschrieben.
 
 ## Metadatenstandards
 
@@ -65,15 +65,15 @@ ISAD(G) wurde zu einer Zeit entwickelt, in der die Digitalisierung erst begann u
 - [Webinar VSA AG Normen und Standards, 1.7.2020: Mehrdimensionale Erschliessung mit Records in Contexts (RiC)](https://wiki.docuteam.ch/lib/exe/fetch.php?media=docuteam:praes_vsa-ric_20200701_wildi.pdf)
 - [Bogdan Florin Popovici: “Records in Contexts – Towards a New Level in Archival Description?”](http://www.pokarh-mb.si/uploaded/datoteke/Radenci/radenci_2016/013-031_popovici_2016.pdf)
 
-## ArchiveSpace
-[ArchiveSpace](https://archivesspace.org/) ist eine Open Source Software für Archivinformationssysteme, welche im September 2013 die erste Version veröffentlichte und inzwischen bei v2.7.1 angelangt ist. Der Code ist auf [GitHub](https://github.com/archivesspace/archivesspace) einsehbar. Wie Koha besitzt ArchiveSpace eine wachsende Community, die die Weiterentwicklung stetig vorantreiben. Die Metadaten in ArchiveSpace basieren auf ISAD(G), ISAAR(CPF) und [DACS](https://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/describing-archives-a-content-standard-dacs-second-). Es besteht ein ausführliches [Wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/overview), welches neben der Webseite weitere Informationen zum Tool bietet.
+## ArchivesSpace
+[ArchivesSpace](https://archivesspace.org/) ist eine Open Source Software für Archivinformationssysteme, welche im September 2013 die erste Version veröffentlichte und inzwischen bei v2.7.1 angelangt ist. Der Code ist auf [GitHub](https://github.com/archivesspace/archivesspace) einsehbar. Wie Koha besitzt ArchivesSpace eine wachsende Community, die die Weiterentwicklung stetig vorantreiben. Die Metadaten in ArchivesSpace basieren auf ISAD(G), ISAAR(CPF) und [DACS](https://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/describing-archives-a-content-standard-dacs-second-). Es besteht ein ausführliches [Wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/overview), welches neben der Webseite weitere Informationen zum Tool bietet.
 
 
 ### Learnings:
-- ArchiveSpace ist Koha für Archive
+- ArchivesSpace ist Koha für Archive
 - basiert auf den gewohnten Standards
 
 ### Quellen:
-- [ArchiveSpace -- About](https://archivesspace.org/about/history)
+- [ArchivesSpace -- About](https://archivesspace.org/about/history)
 
-Zeichen: 
+Zeichen: 5933
