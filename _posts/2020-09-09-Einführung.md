@@ -83,7 +83,7 @@ Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im 
 
 **Disclaimer**
 
-Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurden das [Skript](https://bain.felixlohmeier.de/#/) und das [gemeinsame Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?view) zu Rate gezogen, diese werden jedoch nicht spezifisch unter jedem Beitrag als Quelle ausgewiesen. Zur Orientierung wird jeweils unter den Beiträgen die Anzahl der Zeichen angegeben.
+Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurden das [Skript](https://bain.felixlohmeier.de/#/) und das [gemeinsame Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?view) zu Rate gezogen, diese werden jedoch nicht spezifisch unter jedem Beitrag als Quelle ausgewiesen. Zur Orientierung wird jeweils unter den Beiträgen die Anzahl der Zeichen angegeben. Bei manchen Vorlesungen kam es zu Verzögerungen, so dass ein Thema über mehrere Vorlesungen gezogen wurde, obwohl dies nicht vorgesehen war. Einfachheitshalber wurden die Einträge vorlesungsübergreifend gestaltet, so dass ein Thema zusammengehalten wird und nicht auf zwei Beiträge aufgeteilt werden muss.
 
 **Links**
 
