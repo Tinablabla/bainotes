@@ -65,7 +65,7 @@ ISAD(G) wurde zu einer Zeit entwickelt, in der die Digitalisierung erst begann u
 - [Webinar VSA AG Normen und Standards, 1.7.2020: Mehrdimensionale Erschliessung mit Records in Contexts (RiC)](https://wiki.docuteam.ch/lib/exe/fetch.php?media=docuteam:praes_vsa-ric_20200701_wildi.pdf)
 - [Bogdan Florin Popovici: “Records in Contexts – Towards a New Level in Archival Description?”](http://www.pokarh-mb.si/uploaded/datoteke/Radenci/radenci_2016/013-031_popovici_2016.pdf)
 
-Zwischenstand: 5210
+Zwischenstand: 5352
 
 ## ArchiveSpace
 kurzhalten, schnell beschreiben
