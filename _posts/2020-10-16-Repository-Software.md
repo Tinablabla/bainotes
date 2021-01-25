@@ -13,8 +13,8 @@ CMISTAR wird in der ETH sowie im Stadtarchiv Uster verwenndet und ist mir persö
 
 
 ## Repository-Software
-[Wikipedia](https://de.wikipedia.org/wiki/Repository#:~:text=Ein%20Repository%20(englisch%20f%C3%BCr%20Lager,Objekte%20f%C3%BCr%20ein%20digitales%20Archiv.):
 
+[Wikipedia](https://de.wikipedia.org/wiki/Repository#:~:text=Ein%20Repository%20(englisch%20f%C3%BCr%20Lager,Objekte%20f%C3%BCr%20ein%20digitales%20Archiv.) :
 >Ein Repository [...] ist ein verwaltetes Verzeichnis zur Speicherung und Beschreibung digitaler Objekte für ein digitales Archiv.
 
 Es können verschiedne Objekte in einem Repository verwaltet werden. Beispiele dazu sind
