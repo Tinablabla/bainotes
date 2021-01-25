@@ -65,16 +65,15 @@ ISAD(G) wurde zu einer Zeit entwickelt, in der die Digitalisierung erst begann u
 - [Webinar VSA AG Normen und Standards, 1.7.2020: Mehrdimensionale Erschliessung mit Records in Contexts (RiC)](https://wiki.docuteam.ch/lib/exe/fetch.php?media=docuteam:praes_vsa-ric_20200701_wildi.pdf)
 - [Bogdan Florin Popovici: “Records in Contexts – Towards a New Level in Archival Description?”](http://www.pokarh-mb.si/uploaded/datoteke/Radenci/radenci_2016/013-031_popovici_2016.pdf)
 
-Zwischenstand: 5352
-
 ## ArchiveSpace
-kurzhalten, schnell beschreiben
+[ArchiveSpace](https://archivesspace.org/) ist eine Open Source Software für Archivinformationssysteme, welche im September 2013 die erste Version veröffentlichte und inzwischen bei v2.7.1 angelangt ist. Der Code ist auf [GitHub](https://github.com/archivesspace/archivesspace) einsehbar. Wie Koha besitzt ArchiveSpace eine wachsende Community, die die Weiterentwicklung stetig vorantreiben. Die Metadaten in ArchiveSpace basieren auf ISAD(G), ISAAR(CPF) und [DACS](https://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/describing-archives-a-content-standard-dacs-second-). Es besteht ein ausführliches [Wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/overview), welches neben der Webseite weitere Informationen zum Tool bietet.
 
 
 ### Learnings:
--
--
+- ArchiveSpace ist Koha für Archive
+- basiert auf den gewohnten Standards
 
 ### Quellen:
--
--
+- [ArchiveSpace -- About](https://archivesspace.org/about/history)
+
+Zeichen: 
