@@ -1,4 +1,4 @@
--- Versionenkontrollen, Metadatenstandarts und die Installation von Koha --
+-- Versionenkontrollen, Metadatenstandards in Bibliotheken und die Installation von Koha --
 
 Heute starteten wir mit ein paar Kommentaren und Ergänzungen der Dozenten zu den Lerntagebüchern, installierten und verwendeten Git, lernten den Unterschied zwischen MARC21 und Dublin Core und installierten mehr oder weniger erfolgreich Koha. Als erstes möchte ich zuerst über mein heutiges Vertiefungsthema reden, bevor ich auf die restlichen Punkte eingehe.
 
