@@ -1,6 +1,6 @@
 -- Untertitel --
 
-Im Kurs wurde das Thema Schnittstellen mehrmals bereits angesprochen, jedoch möchten wir heute genau klären, was es damit auf sich hat.
+Im Kurs wurde das Thema Schnittstellen mehrmals angesprochen, jedoch möchten wir heute genau klären, was es damit auf sich hat.
 
 ## Schnittstellen und Metadaten Harvesting
 
@@ -11,10 +11,26 @@ Im Kurs wurde das Thema Schnittstellen mehrmals bereits angesprochen, jedoch mö
 
 Die drei aufgeführten Punkte sind alles bekannte und weit verbreitete Übertragungsprotokolle im Bibliotheks- und Archivwesen. Z39.50 ist die älteste Variante und wurde 1984 in den USA entwickelt. Diese Schnittstelle wird zwar noch benutzt, ist jedoch veraltet. SRU basiert auf den etablierten Internet-Standards wie URI und XML und ist im Gegensatz zu Z39.50 auch über das Bibliothekswesen hinaus bekannt. Sie kam im Rahmen einer Initiative, Z39.50 International Next Generation (ZING), zustande und soll eine Weiterentwicklung der Z39.50-Schnittstelle werden.
 
-Heute werden wir hauptsächlich mit der AOI-Schnittstelle arbeiten und haben bereits in anderen Modulen mit ihr gearbeitet. Das [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html) wurde 2000 entwickelt, da Publikationen häufig verstreut über Server verschiedener Institutionen gesucht werden müssen. Während Z39.50 verschiedene Anfragen an mehrere Hosts stellen muss, sammelt OAI-PMH einfach die bereitgestellten Daten von Data Providern. Data Provider können beispielsweise Repositories (siehe dazu mein letzter Beitrag [Repository Software](2020-10-16-Repository-Software.md)) sein, die eine AOI-Schnittstelle zulassen. Die gesammelten Datensätze werden von Service Providern (wie [BASE](https://de.wikipedia.org/wiki/Bielefeld_Academic_Search_Engine), die mit Solr/Lucene betrieben wird) für Suchanfragen aufbereitet. Da es viele Metadatenformate gibt (mehr dazu auch im Beitrag [Metadaten im Archiv](https://tinablabla.github.io/bainotes/2020/10/09/Metadaten-im-Archiv.html)) wird das Dublin Core Datenmodell vorgeschrieben.
+Heute werden wir hauptsächlich mit der AOI-Schnittstelle arbeiten und haben bereits in anderen Vorlesungen mit ihr gearbeitet. Das [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html) wurde 2000 entwickelt, da Publikationen häufig verstreut über Server verschiedener Institutionen gesucht werden müssen. Während Z39.50 verschiedene Anfragen an mehrere Hosts stellen muss, sammelt OAI-PMH einfach die bereitgestellten Daten von Data Providern. Data Provider können beispielsweise Repositories (siehe dazu mein letzter Beitrag [Repository Software](https://tinablabla.github.io/bainotes/2020/10/16/Repository-Software.html)) sein, die eine AOI-Schnittstelle zulassen. Die gesammelten Datensätze werden von Service Providern (wie [BASE](https://de.wikipedia.org/wiki/Bielefeld_Academic_Search_Engine), die mit Solr/Lucene betrieben wird) für Suchanfragen aufbereitet. Da es viele Metadatenformate gibt (mehr dazu auch im Beitrag [Metadaten im Archiv](https://tinablabla.github.io/bainotes/2020/10/09/Metadaten-im-Archiv.html)) wird das Dublin Core Datenmodell vorgeschrieben.
 
-Dieser Sammelvorgang von Daten heisst auch Metadata Harvesting. Der Begriff Metadata Harvesting beschreibt das Sammeln von Metadaten von verschiedenen Data Providern und das Speichern auf einer zentralen Datenbank.
+Dieser Sammelvorgang von Daten heisst auch Metadata Harvesting. Der Begriff Metadata Harvesting beschreibt also das Sammeln von Metadaten von verschiedenen Data Providern und das Speichern auf einer zentralen Datenbank. In der Vorlesung verwenden wir dazu VuFindHarvest.
 
-## Quellen:
+### Learnings:
+- Es gibt drei bekannte Schnittstellen: Z39.50, SRU, OAI-PMH
+- OAI-PMH sammelt in Repositories Daten ein und werden von Service Providern aufbereitet (Metadaten Harvesting)
+
+### Quellen:
 - [Wikipedia -- Search/Retrieve via URL](https://de.wikipedia.org/wiki/Search/Retrieve_via_URL)
 - [Wikipedia -- Open Archives Initiative](https://de.wikipedia.org/wiki/Open_Archives_Initiative)
+- [UCF Libraries -- Metadata Harvesting](https://guides.ucf.edu/metadata/metaHarvesting)
+
+## VuFindHarvest
+
+
+
+
+
+
+
+
+## Quellen:
