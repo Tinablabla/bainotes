@@ -29,6 +29,7 @@ VuFindHarvest ist eine Open Source Software (Code auf [GitHub](https://github.co
 
 VuFindHarvest ist im Rahmen des [VuFind](https://vufind.org/vufind/) Projektes entstanden. VuFind ist ein Open Source Discorvery-System, welches den Online Public Access Catalogue (OPAC) ablösen kann. Auf der Webseite des Projekts gibt es eine [Tabelle](https://vufind.org/wiki/community:installations) mit Organisationen, welche mit dem Tool arbeiten. Unter anderem werden [swissbib](https://www.swissbib.ch/) (welche per 31. März 2021 eingestellt wird und durch SLSP ersetzt wird), [META-Katalog](https://www.meta-katalog.eu/) (zentrale Suche für über 30 Frauen- und Lesebnarchiven und Bibliotheken), [BASE](https://www.base-search.net/) (Bielefeld Academic Search Engine) und Bibliotheken von den Universitäten [Chemnitz](https://www.tu-chemnitz.de/ub/), [Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) und [Hamburg](https://www.tub.tuhh.de/).
 
+In der Vorlesung haben wir VuFindHarvest genutzt, um die Metadaten von Koha (in MARC21-XML), ArchivesSpace (in EAD) und DSpace (Dublin Core) zu sammeln und auf der Festplatte gespeichert. Um die Daten zu vereinheitlichen wurden sie danach in einem XSLT Crosswalk auf das Format MARC21-XML konvertiert.
 
 ## Quellen:
 - [GitHub -- VuFindHarvest](https://github.com/vufind-org/vufindharvest)
