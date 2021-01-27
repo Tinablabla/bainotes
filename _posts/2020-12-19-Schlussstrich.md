@@ -1,3 +1,5 @@
+-- Fazit zum Kurs --
+
 Was habe ich gelernt?
 
 Ich habe verschiedene Systeme kennengelernt und dabei auch nochmals die UNIX Shell Kommandos neu gelernt. Verschiedene Lernmethoden genutzt und gemerkt, dass ich mich nicht auf den Präsenzunterricht versteifen muss, um ein Modul erfolgreich zu meistern. Home-Office hat sehr geholfen in diesem Semester,
