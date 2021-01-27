@@ -34,3 +34,5 @@ In der Vorlesung haben wir VuFindHarvest genutzt, um die Metadaten von Koha (in 
 ## Quellen:
 - [GitHub -- VuFindHarvest](https://github.com/vufind-org/vufindharvest)
 - [VuFind -- About](https://vufind.org/vufind/about.html)
+
+Zeichen: 3637
