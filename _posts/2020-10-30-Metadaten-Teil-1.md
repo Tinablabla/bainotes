@@ -25,11 +25,9 @@ Dieser Sammelvorgang von Daten heisst auch Metadata Harvesting. Der Begriff Meta
 - [UCF Libraries -- Metadata Harvesting](https://guides.ucf.edu/metadata/metaHarvesting)
 
 ## VuFindHarvest
+VuFindHarvest ist eine Open Source Software (Code auf [GitHub](https://github.com/vufind-org/vufindharvest)), die für das sammeln von Metadaten entwickelt wurde. Dabei kann das Tol eine Datei pro Datensatz oder mehrere Dateien pro Datensatz verarbeiten. Die Datensätze können durch Konfigurationen erweitert und bearbeitet werden. Interessant finde ich, dass die Software in einer .txt Datei das Datum der letzten "Ernte" speichert, damit später eine schrittweise Aktualisierung und das Abrufen neuer Inhalte möglich ist. Ausserde werden auch abgebrochene Prozesse abgespeichert und können fast nahtlos weitergeführt werden.
 
-
-
-
-
+VuFindHarvest ist im Rahmen des [VuFind](https://vufind.org/vufind/) Projektes entstanden. VuFind ist ein Open Source Discorvery-System, welches den Online Public Access Catalogue (OPAC) ablösen kann. Auf der Webseite des Projekts gibt es eine [Tabelle](https://vufind.org/wiki/community:installations) mit Organisationen, welche mit dem Tool arbeiten. Unter anderem werden [swissbib](https://www.swissbib.ch/) (welche per 31. März 2021 eingestellt wird und durch SLSP ersetzt wird), [META-Katalog](https://www.meta-katalog.eu/) (zentrale Suche für über 30 Frauen- und Lesebnarchiven und Bibliotheken), [BASE](https://www.base-search.net/) (Bielefeld Academic Search Engine) und Bibliotheken von den Universitäten [Chemnitz](https://www.tu-chemnitz.de/ub/), [Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) und [Hamburg](https://www.tub.tuhh.de/).
 
 
 
