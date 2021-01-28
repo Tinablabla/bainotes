@@ -2,7 +2,7 @@
 
 In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Ausserdem wollte ich für diesen Beitrag vermehrt meine Erfahrungen mit den Hausaufgaben aufzeigen.
 
-## OpenRefine
+## Einführung
 
 Auf der offiziellen [Website](https://openrefine.org/) wird das Tool folgendermassen beschrieben:
 
@@ -97,17 +97,18 @@ Importierbare Datafiles:
   - csv
   - tsv
   - ODF
-  - ect.
 
 #### Aufgabe 13
 - Stars and Flags können zur Kennzeichning von Reihen dienen, unter `All` können nach den beiden Zeichen sortiert werden.
 
 #### Aufgabe 14
-- First of: HOLY SHIT IT WORKED!
-- Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
+- First of: HOLY SHIT IT WORKED! <img src="https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif" width="170" height="120" />
+- Looking up data from a URL: Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
+- Reconciliation services  und Extensions habe ich nicht ausprobiert.
 
-<img src="https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif" width="200" height="120" />
+## Fazit
+
 
 
 Zeichen:
