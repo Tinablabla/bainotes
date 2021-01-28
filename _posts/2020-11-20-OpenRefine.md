@@ -29,7 +29,7 @@ Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/d
 
 Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet ausfüllen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies als mein Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
 
-2. Aufgabe
+#### Aufgabe 2
 Importierbare Datafiles:
 - TSV (tab-separated values)
 - CSV (comma-separated values)
@@ -40,10 +40,10 @@ Importierbare Datafiles:
 
 - "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
 
-4. Aufgabe
+#### Aufgabe 4
 - Zellen teilen: Spalte auswählen -> `Edit cells` -> `Split multi-valued cells`
 - Zellen vereinen: Spalte auswählen -> `Edit cells` -> `Join multi-valued cells`
 - Unterschied `Records` und `Rows`: Rows zählt die einzelnen Reihen, während Records zusammengehörige Reihen verlinkt und nur die Records aufzählt.
 - Gute Trennzeichen zeichenen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt, `,` ist meist ungeeignet, da es häufig vorkommt. Kommt jedoch auf die Daten an und wie sie aufgeteilt werden sollen.
 
-5. Aufgabe
+#### Aufgabe 5
