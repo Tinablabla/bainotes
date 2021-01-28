@@ -27,7 +27,7 @@ Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/d
 
 ## Carpentry Lesson: OpenRefine
 
-Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet ausfüllen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies als mein Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
+Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet ausfüllen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
 
 #### Aufgabe 2
 Importierbare Datafiles:
@@ -75,9 +75,10 @@ Importierbare Datafiles:
   - `if(value.contains("test"),"Test data",value)` -- prüft ob "test" vorkommt, wenn `true` wird der Zelleninhalt durch "Test data" ersetzt
   - `value.split(",")` -- macht eine kommagetrennte String-Liste in eine Arry
   - `value.split(",").sort()` -- ^ + alphabetisch sortiert
+  - `value.split(",").sort().join(",")` -- ^ + ^ + fügt sie wieder zu einem String zusammen.
   - `value.split(",")[0]` -- ^ + extrahiert eine spezifische Variable (hier die Erste, da 0 der Startpunkt ist)
-  - `value.split(",").sort().join(",")` -- ^ + sortiert + fügt sie wieder zu einem String zusammen.
-
+  - `value.match(/(.*),(.*)/)` -- Input ist eine regular Expression und es wird ein Array ausgegeben, bei denen die regular Expression zutrifft. `/`signalisieren die regular Expression, `()` signalisieren dass eine Gruppe von Zeichen verglichen wird, `.*` signalisiert dass irgend ein Zeichen garnicht, einmal oder mehrmals vorkommt. Somit wird verglichen: Hat es eine Zelle, die (ein oder mehrere oder kein) Buchstabe(n), gefolgt von einem `,` und (einem, mehreren oder keinem) Buchstaben enthält? -> Wenn etwas gefunden wird, wird die Zelle in einen Array transfomiert.
+- `value.match(/(.*),(.*)/).reverse().join(" ")` -- Macht die Funktion von ^ rückängig und fügt alles in einen String.
 #### Aufgabe 10
 - Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
   - String ("Beispielname")
