@@ -1,6 +1,8 @@
--- Untertitel --
+-- "a powerful tool for working with messy data" --
 
-In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Ausserdem wollte ich für diesen Beitrag vermehrt meine Erfahrungen mit den Hausaufgaben aufzeigen.
+In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
+
+Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
 
 ## Einführung
 
@@ -26,8 +28,7 @@ Mit Hilfe von Webservices ist es möglich, die eigenen Daten zu verlinken und zu
 Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/documentation.html), die den Usern und Entwikcklern helfen können. Ausserdem gibt es eine [Library Carpentry Lesson](https://librarycarpentry.org/lc-open-refine/) zu OpenRefine, welche wir als Hausaufgabe lösten.
 
 ## Carpentry Lesson: OpenRefine
-
-Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet ausfüllen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
+Nachdem wir nun die Grundlagen über das Tool erfahren haben, wenden wir uns nun der Lesson zu. Zu jeder Aufgabe, bei der ich etwas wichtiges lerne oder erfahre, werde ich es hier festhalten.
 
 #### Aufgabe 2
 Importierbare Datafiles:
@@ -112,6 +113,6 @@ First of: HOLY SHIT IT WORKED!
 
 ## Fazit
 
-Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt. Es fasziniert mich, wie viel aus der Software herausgeholt werden kann und wie nahtlos die verschiedenen Schnittstellen arbeiten. Ich kann mir gut vorstellen auch in Zukunft damit zu arbeiten. 
+Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt. Es fasziniert mich, wie viel aus der Software herausgeholt werden kann und wie nahtlos die verschiedenen Schnittstellen arbeiten. Ich kann mir gut vorstellen auch in Zukunft damit zu arbeiten.
 
-Zeichen:
+Zeichen: too many to count. 
