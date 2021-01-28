@@ -40,10 +40,41 @@ Importierbare Datafiles:
 
 - "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
 
-#### Aufgabe 4
+#### Aufgabe 3
 - Zellen teilen: Spalte auswählen -> `Edit cells` -> `Split multi-valued cells`
 - Zellen vereinen: Spalte auswählen -> `Edit cells` -> `Join multi-valued cells`
 - Unterschied `Records` und `Rows`: Rows zählt die einzelnen Reihen, während Records zusammengehörige Reihen verlinkt und nur die Records aufzählt.
 - Gute Trennzeichen zeichenen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt, `,` ist meist ungeeignet, da es häufig vorkommt. Kommt jedoch auf die Daten an und wie sie aufgeteilt werden sollen.
 
+#### Aufgabe 4
+- Für jede Spalte kann ein Facet erstellt werden
+- Es gibt verschiedene Arten von Facets (Text, Numerische, Timeline, Streudiagramm und Benutzerdefinierte)
+- Es können eigene erstellt werden, aber es gibt auch `Customized facets`
+- Text Filter funktioniert wie Excel Suche
+
 #### Aufgabe 5
+- Clustering bedeutet gleiche aber inkonsistente Angaben zu vereinen, nützlich bei Variationen von Abkürzungen und ausgeschriebenen Namen ect.
+- Key Collision funktioniert bei gleichen Zeichen aber es fehlen Zeichen oder sind zusätzliche Zeichen vorhanden oder in einer anderen Reihenfolge.
+- Nearest Neighbor zeigt wenn einzelne Buchstaben nicht stimmen (G. Anbalagan / K. Anbalagan), jedoch kann ich hier nicht sicher sein, ob dies korrigiert werden muss. Es gibt schliesslich genug Personen mit den gleichen Nachnamen, die Bücher und Artikel veröffentlichen.
+
+
+#### Aufgabe 7
+-  [GREL](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language) (General Refine Expression Language) ist eine vereinfachte und effiziente Sprache zur Bearbeitung von Daten und hat Ähnlichkeiten zu Excel Formeln, jedoch liegt der Fokus von GREL auf Text und nicht auf Nummern.
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zeichen:
