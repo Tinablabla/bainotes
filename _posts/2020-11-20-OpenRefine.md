@@ -66,8 +66,11 @@ Importierbare Datafiles:
   - function(value, options)
 - `Help` gibt eine Liste von GREL Funktionen aus und wie sie genutzt werden können.
 - gesammelte GREL Funktionen:
-  - value.toDate("dd/MM/yyyy")
-  -
+  - `value.toTitlecase()` -- Nur Der Erste Buchstabe Gross
+  - `value.toUppercase()` -- CAPSLOCK MODE ACTIVATED
+  - `value.toLowercase()` -- capslock mode deactivated
+  - `value.toDate("dd/MM/yyyy")` -- gibt Datum als im Date-Format aus (01/11/2020)
+  - `value.toString("dd MMMM yyyy")` -- gibt Datum in String aus (1 November 2020)
 
 #### Aufgabe 10
 - Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
