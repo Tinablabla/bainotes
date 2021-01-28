@@ -112,6 +112,6 @@ First of: HOLY SHIT IT WORKED!
 
 ## Fazit
 
-Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt.
+Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt. Es fasziniert mich, wie viel aus der Software herausgeholt werden kann und wie nahtlos die verschiedenen Schnittstellen arbeiten. Ich kann mir gut vorstellen auch in Zukunft damit zu arbeiten. 
 
 Zeichen:
