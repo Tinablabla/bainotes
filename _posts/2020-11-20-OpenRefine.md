@@ -102,7 +102,7 @@ Importierbare Datafiles:
 - Stars and Flags können zur Kennzeichning von Reihen dienen, unter `All` können nach den beiden Zeichen sortiert werden.
 
 #### Aufgabe 14
-- First of: HOLY SHIT IT WORKED! <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="170" />
+- First of: HOLY SHIT IT WORKED! <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="250" />
 - Looking up data from a URL: Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
 - Reconciliation services  und Extensions habe ich nicht ausprobiert.
