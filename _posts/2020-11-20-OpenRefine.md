@@ -31,7 +31,6 @@ Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde
 
 2. Aufgabe
 Importierbare Datafiles:
-
 - TSV (tab-separated values)
 - CSV (comma-separated values)
 - Excel
@@ -39,11 +38,12 @@ Importierbare Datafiles:
 - XML
 - Google Spreadsheet
 
-3. Aufgabe
-"Trim leading and trailing whitespace from strings[...]" führt bei einer Checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
+- "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
 
 4. Aufgabe
 - Zellen teilen: Spalte auswählen -> `Edit cells` -> `Split multi-valued cells`
 - Zellen vereinen: Spalte auswählen -> `Edit cells` -> `Join multi-valued cells`
-- Unterschied Records und Rows: Rows zählt die einzelnen Reihen, während Records zusammengehörige Reihen verlinkt und nur die Records aufzählt.
-- Gute Trennzeichen zeichenen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt.
+- Unterschied `Records` und `Rows`: Rows zählt die einzelnen Reihen, während Records zusammengehörige Reihen verlinkt und nur die Records aufzählt.
+- Gute Trennzeichen zeichenen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt, `,` ist meist ungeeignet, da es häufig vorkommt. Kommt jedoch auf die Daten an und wie sie aufgeteilt werden sollen.
+
+5. Aufgabe
