@@ -31,12 +31,12 @@ Disclaimer: Mit diesem Kapitel möchte ich etwas anderes ausprobieren. Ich werde
 
 #### Aufgabe 2
 Importierbare Datafiles:
-- TSV (tab-separated values)
-- CSV (comma-separated values)
-- Excel
-- JSON (javascript object notation)
-- XML
-- Google Spreadsheet
+  - TSV (tab-separated values)
+  - CSV (comma-separated values)
+  - Excel
+  - JSON (javascript object notation)
+  - XML
+  - Google Spreadsheet
 
 - "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
 
