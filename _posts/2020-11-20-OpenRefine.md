@@ -90,12 +90,24 @@ Importierbare Datafiles:
 #### Aufgabe 11
 - Arrays sind Listen in eckigen `[]` Klammern von Daten, die mit Hilfe von Anführungs- und Schlusszeichen `"` und Kommas `,` getrennt werden. Sie können einfacher bearbeitet werden als andere Listen in einem Datenblatt.
 
+#### Aufgabe 12
+- Export in verschiede Formate möglich:
+  - HTML
+  - Excel
+  - csv
+  - tsv
+  - ODF
+  - ect.
+
+#### Aufgabe 13
+- Stars and Flags können zur Kennzeichning von Reihen dienen, unter `All` können nach den beiden Zeichen sortiert werden.
+
+#### Aufgabe 14
+- First of: HOLY SHIT IT WORKED!
+- Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
 
-
-
-
-
+![](http://i.imgur.com/OUkLi.gif)
 
 
 
