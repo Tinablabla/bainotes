@@ -1,6 +1,6 @@
 -- Metataden ernten und VuFindHarvest --
 
-Im Kurs wurde das Thema Schnittstellen mehrmals angesprochen, jedoch möchten wir heute genau klären, was es damit auf sich hat.
+Im Kurs wurde das Thema Schnittstellen mehrmals angesprochen, jedoch möchten wir heute genau klären, was es damit auf sich hat und nochmals mit bereits bekannten Schnittstellen arbeiten. 
 
 ## Schnittstellen und Metadaten Harvesting
 
