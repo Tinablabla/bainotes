@@ -67,7 +67,12 @@ Importierbare Datafiles:
 - `Help` gibt eine Liste von GREL Funktionen aus und wie sie genutzt werden können.
 
 #### Aufgabe 10
-
+- Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
+  - String
+  - Number
+  - Date
+  - Boolean
+  - Array
 
 
 
