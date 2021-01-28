@@ -71,6 +71,12 @@ Importierbare Datafiles:
   - `value.toLowercase()` -- capslock mode deactivated
   - `value.toDate("dd/MM/yyyy")` -- gibt Datum als im Date-Format aus (01/11/2020)
   - `value.toString("dd MMMM yyyy")` -- gibt Datum in String aus (1 November 2020)
+  - `value.contains("test")` -- prüft, ob "test" vorkommt, je nach Ergebnis `true/false`
+  - `if(value.contains("test"),"Test data",value)` -- prüft ob "test" vorkommt, wenn `true` wird der Zelleninhalt durch "Test data" ersetzt
+  - `value.split(",")` -- macht eine kommagetrennte String-Liste in eine Arry
+  - `value.split(",").sort()` -- ^ + alphabetisch sortiert
+  - `value.split(",")[0]` -- ^ + extrahiert eine spezifische Variable (hier die Erste, da 0 der Startpunkt ist)
+  - `value.split(",").sort().join(",")` -- ^ + sortiert + fügt sie wieder zu einem String zusammen.
 
 #### Aufgabe 10
 - Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
@@ -78,8 +84,10 @@ Importierbare Datafiles:
   - Number ("12345")
   - Date ("20/02/2020")
   - Boolean ("true/false")
-  - Array
+  - Array ([“Monday”,”Tuesday”,”Wednesday”,”Thursday”,”Friday”,”Saturday”,”Sunday”])
 
+#### Aufgabe 11
+- Arrays sind Listen in eckigen `[]` Klammern von Daten, die mit Hilfe von Anführungs- und Schlusszeichen `"` und Kommas `,` getrennt werden. Sie können einfacher bearbeitet werden als andere Listen in einem Datenblatt.
 
 
 
