@@ -109,5 +109,7 @@ Importierbare Datafiles:
 
 ![test](https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif)
 
+<img src="https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif" width="40" height="40" />
+
 
 Zeichen:
