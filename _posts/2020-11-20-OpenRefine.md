@@ -62,16 +62,19 @@ Importierbare Datafiles:
 - Transformations findet man unter: `Edit cells -> Transform...`
 -  [GREL](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language) (General Refine Expression Language) ist eine vereinfachte und effiziente Sprache zur Bearbeitung von Daten und hat Ähnlichkeiten zu Excel Formeln, jedoch liegt der Fokus von GREL auf Text und nicht auf Nummern.
 - GREL kennt zwei Schreibarten:
-    - value.function(options)
-    - function(value, options)
+  - value.function(options)
+  - function(value, options)
 - `Help` gibt eine Liste von GREL Funktionen aus und wie sie genutzt werden können.
+- gesammelte GREL Funktionen:
+  - value.toDate("dd/MM/yyyy")
+  -
 
 #### Aufgabe 10
 - Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
-  - String
-  - Number
-  - Date
-  - Boolean
+  - String ("Beispielname")
+  - Number ("12345")
+  - Date ("20/02/2020")
+  - Boolean ("true/false")
   - Array
 
 
