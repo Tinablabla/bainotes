@@ -104,13 +104,14 @@ Importierbare Datafiles:
 #### Aufgabe 14
 First of: HOLY SHIT IT WORKED!
 
-<img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="300" />
+
 - Looking up data from a URL: Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
 - Reconciliation services  und Extensions habe ich nicht ausprobiert.
 
 ## Fazit
 
-Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet.
+Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt.
 
 Zeichen:
