@@ -107,7 +107,7 @@ Importierbare Datafiles:
 - Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
 
-<img src="https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif" width="100" height="120" />
+<img src="https://media.giphy.com/media/zk6HuNKb9WauQ/source.gif" width="200" height="120" />
 
 
 Zeichen:
