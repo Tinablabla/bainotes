@@ -12,7 +12,7 @@ Ausserdem werden die im Zitat aufgeführte verendungszwecke nochmals genauer bes
 
 **1. Explore Data**
 
-Das Tool bietet veschiedene Möglichkeiten Daten anzusehen und zu sortieren. Öffentlich zugängliche Daten sind oft nicht uniform, was dazu führt, dass beispielsweise ähnliche Datensätze aus zwei ähnlichen Institutionen kommen, jedoch andere Namen für die selben Begriffe verwenden. Dies führt dazu, dass es zu Inkonsistenzen kommt. Um dies zu vereinheitlichen, bietet OpenRefine ein Facet/Filter-Tab, in dem alle Inhalte einer Spalte o.a. aufgezählt werden und mit wenigen Klicks Inkonsistenzen aufgeklärt werden können. Wichtig zu wissen: Es werden alle Bearbeitungsschritte verfolgt und im Undo/Redo-Tab können diese Bearbeitungen rückgängig gemacht oder wiederholt werden.
+Das Tool bietet veschiedene Möglichkeiten Daten anzusehen und zu sortieren. Öffentlich zugängliche Daten sind oft nicht uniform, was dazu führt, dass beispielsweise ähnliche Datensätze aus zwei ähnlichen Institutionen kommen, jedoch andere Namen für die selben Begriffe verwenden. Dies führt dazu, dass es zu Inkonsistenzen kommt. Um dies zu vereinheitlichen, bietet OpenRefine ein Facet/Filter-Tab, in dem alle Inhalte einer Spalte o.a. aufgezählt werden und mit wenigen Klicks Inkonsistenzen aufgeklärt werden können. Wichtig zu wissen: Es werden alle Bearbeitungsschritte verfolgt und im Undo/Redo-Tab können diese Bearbeitungen rückgängig gemacht oder wiederholt werden. Ausserdem ist es möglich diese Schritte zu exportieren und in einem anderen Datenset zu wiederholen (ähnlich wie Aktionen in Photoshop).
 
 **2. Clean and Transform Data**
 
@@ -50,7 +50,7 @@ Importierbare Datafiles:
 - Für jede Spalte kann ein Facet erstellt werden
 - Es gibt verschiedene Arten von Facets (Text, Numerische, Timeline, Streudiagramm und Benutzerdefinierte)
 - Es können eigene erstellt werden, aber es gibt auch `Customized facets`
-- Text Filter funktioniert wie Excel Suche
+- Textfilter funktioniert wie Excel Suche
 
 #### Aufgabe 5
 - Clustering bedeutet gleiche aber inkonsistente Angaben zu vereinen, nützlich bei Variationen von Abkürzungen und ausgeschriebenen Namen ect.
@@ -58,11 +58,15 @@ Importierbare Datafiles:
 - Nearest Neighbor zeigt wenn einzelne Buchstaben nicht stimmen (G. Anbalagan / K. Anbalagan), jedoch kann ich hier nicht sicher sein, ob dies korrigiert werden muss. Es gibt schliesslich genug Personen mit den gleichen Nachnamen, die Bücher und Artikel veröffentlichen.
 
 
-#### Aufgabe 7
+#### Aufgabe 7 & 8
+- Transformations findet man unter: `Edit cells -> Transform...`
 -  [GREL](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language) (General Refine Expression Language) ist eine vereinfachte und effiziente Sprache zur Bearbeitung von Daten und hat Ähnlichkeiten zu Excel Formeln, jedoch liegt der Fokus von GREL auf Text und nicht auf Nummern.
--
+- GREL kennt zwei Schreibarten:
+    - value.function(options)
+    - function(value, options)
+- `Help` gibt eine Liste von GREL Funktionen aus und wie sie genutzt werden können.
 
-
+#### Aufgabe 10
 
 
 
