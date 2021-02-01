@@ -22,4 +22,4 @@ Fazit
 - Spannendes Fach, sehr gut gestaltet, teilweise Zeitmanagement-Probleme, was die Beitragerstellung erschwerte
 - Viele Themen sind verknüpfbar mit Unterrichtstoff (Digitale Langzeitarchivierung, Usability, Semantische Systeme ect.) den man nicht erwarten würde, aber so die Spannung für das Fach hoch hält.
 - Super nette und hilfsbereite Dozenten mit viel Praxiserfahrung
--
+- abegesehn von im Unterricht direkt benutzten Tools (ArchivesSpaces, Koha, OpenRefine) konnten andere nützliche Systeme viel angewendet werden. In meinem Fall habe ich viel mit GitHub gearbeitet und die Texte direkt in GitHub verfasst. Später im Kurs bin ich auf die [GitHub Desktop](https://desktop.github.com/) Applikation gestossen und habe dann mit Hilfe von [Atom](https://atom.io/) die Texte verfasst und die Pages bearbeitet. Vorteile waren, dass ich einfacher zwischen den Artikeln hin und her wechseln konnte und  auch gleichzeitig an mehreren Artikeln arbeiten konnte. 
