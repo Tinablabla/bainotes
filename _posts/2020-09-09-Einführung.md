@@ -90,16 +90,22 @@ Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurde
 
 Einführung in Minima:
 
-<https://github.com/jsanz/gh-pages-minima-starter>
-<https://jsanz.github.io/gh-pages-minima-starter/>
+[Minima Starter - Github Repository](https://github.com/jsanz/gh-pages-minima-starter)
+
+[Minima Starter - Blogseite](https://jsanz.github.io/gh-pages-minima-starter/)
+
 
 Markup:
 
-<https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax>
-<https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview>
+[Github Docs - Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-Zeichenzähler: <https://xn--zeichenzhler-ncb.de/de/>
+[Zendesk - Formatieren von Text mit Markdown](https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview)
 
-Skript: <https://bain.felixlohmeier.de/#/>
 
-Gemeinsames Dokument: <https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?both>
+
+
+[Zeichenzähler](https://xn--zeichenzhler-ncb.de/de/)
+
+[Skript](https://bain.felixlohmeier.de/#/)
+
+[Gemeinsames Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?both)
