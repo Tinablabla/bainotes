@@ -6,13 +6,13 @@ Da im Verlauf des Studiums bereits viel über XML und auch XML Deklarationen erk
 
 ## Vergleich von anderen Datenbearbeitungsprogramme
 Neben OpenRefine werden noch andere Tools angesprchen:
-- Catmandu
-- Metafacture
-- MarcEdit
+* [Catmandu](https://librecat.org)
+* [Metafacture](https://github.com/metafacture/metafacture-core)
+* [MarcEdit](https://marcedit.reeset.net)
 
 Ich habe aus Interesse, die anderen Tools kurz angeschaut, muss jedoch sagen, dass OpenRefine dank der grafischen Oberfläche viel verständlicher und einfacher zu benutzen ist als beispielsweise Catmandu.
 Aus der Präsentation von Prof. Magnus Pfeffer wurde ich noch auf d:swarm aufmerksam. Es sind zwar [Repositories](https://github.com/dswarm) und das [Wiki](https://github.com/dswarm/dswarm-documentation/wiki) zu diesem Tool online, jedoch wurden die seit Ende 2018 nicht mehr weiterentwickelt (gem. GitHub Statistiken) und auch die Webseite <http://www.dswarm.org/> wird auf die [Webseite der Sächsischen Landesbibliothek](https://www.slub-dresden.de/ueber-uns/projekte/juengst-abgeschlossene-projekte/archiv/) umgeleitet. Die Software machte gem. Pfeffer einen guten Eindruck, da ein mächtiges und intuitives Interface versprochen wurde und viele Erweiterungen möglich wären. Leider war es nicht möglich eine Demo auszuprobieren, da auch diese Seite weitergeleitet wurde.
 
 ### Quellen:
 - [GitHub - d:swarm Wiki](https://github.com/dswarm/dswarm-documentation/wiki)
--
+- Pfeffer, Magnus (2016): Open Source Software zur Verarbeitung und Analyse von Metadaten. Hochschule der Medien.
