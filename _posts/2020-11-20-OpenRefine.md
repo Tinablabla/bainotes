@@ -2,7 +2,7 @@
 
 In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
 
-Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
+Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine kleine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
 
 ## Einführung
 
@@ -10,7 +10,7 @@ Auf der offiziellen [Website](https://openrefine.org/) wird das Tool folgenderma
 
 >OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 
-Ausserdem werden die im Zitat aufgeführte verendungszwecke nochmals genauer beschrieben:
+Ausserdem werden die im Zitat aufgeführte Verwendungszwecke nochmals genauer beschrieben:
 
 **1. Explore Data**
 
@@ -20,7 +20,7 @@ Das Tool bietet veschiedene Möglichkeiten Daten anzusehen und zu sortieren. Öf
 
 Daten können in verschiedenen Formen auftreten. Manchmal hat man eine Liste, möchte jedoch eine Tabelle. Mit OpenRefine ist es möglich mit verschiedenen Commands und Funktionen solche Tabellen zu erstellen und Daten zu transformieren.
 
-**3. Rconcile and Match Data**
+**3. Reconcile and Match Data**
 
 Mit Hilfe von Webservices ist es möglich, die eigenen Daten zu verlinken und zu erweitern. Einer davon ist Wikidata.
 
@@ -31,6 +31,8 @@ Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/d
 Nachdem wir nun die Grundlagen über das Tool erfahren haben, wenden wir uns nun der Lesson zu. Zu jeder Aufgabe, bei der ich etwas wichtiges lerne oder erfahre, werde ich es hier festhalten.
 
 #### Aufgabe 2
+- "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
+
 Importierbare Datafiles:
   - TSV (tab-separated values)
   - CSV (comma-separated values)
@@ -39,7 +41,7 @@ Importierbare Datafiles:
   - XML
   - Google Spreadsheet
 
-- "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
+
 
 #### Aufgabe 3
 - Zellen teilen: Spalte auswählen -> `Edit cells` -> `Split multi-valued cells`
@@ -107,7 +109,7 @@ First of: HOLY SHIT IT WORKED!
 
 <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="300" />
 
-- Looking up data from a URL: Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktioon `value.parseJson()`, die Daten aus JSON extrahieren kann.
+- Looking up data from a URL: Spalte erstellt auf ISSN mit `Add column by fetching URLs`, Klick auf `Show`, bei "User-Agent" `; mailto:address@library.edu` (mit eigenen Angaben) hinzugeben, GREL-Feld: `"https://api.crossref.org/journals/"+value`, dies bedeutet, dass mit Hilfe dieses API konnten Daten in JSON gezogen werden, zu dieser ISSN. OpenRefine hat eine Funktion `value.parseJson()`, die Daten aus JSON extrahieren kann.
 
 - Reconciliation services  und Extensions habe ich nicht ausprobiert.
 
