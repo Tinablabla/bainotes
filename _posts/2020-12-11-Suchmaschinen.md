@@ -10,7 +10,7 @@ Wichtig anzumerken ist der Unteschied zwischen Discovery-Systemen und Suchmaschi
 
 
 
-[Wikipedia-Artikel zu Discovery-Systeme](https://de.wikipedia.org/wiki/Suchmaschine)
+[Wikipedia-Artikel zu Discovery-System](https://de.wikipedia.org/wiki/Suchmaschine)
 >Discovery-Systeme sind bibliothekarische Suchsysteme, die auf Suchmaschinentechnologie beruhen. Die sind Bestandteil des Konzepts der Bibliothek 2.0 und sollen die bisherigen OPAC-Kataloge ergänzen oder gar ersetzen.
 
 
