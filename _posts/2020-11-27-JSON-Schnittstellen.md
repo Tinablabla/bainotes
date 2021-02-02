@@ -2,7 +2,7 @@
 
 Da in der letzten Vorlesung viele Themen nicht angesprochen werden konnten, wurden Themen nun in diesen Kurs integriert. Somit starteten wir mit den Nachträgen zu Metadaten. Einerseits gab es eine Diskussion über die Aufgabe der Anreicherung und Erklärungen zu Validierung von XML, Metadatentransformationstools und Nutzung von JSON-APIs sowie dem Metadatenstandard LIDO. Für die Einführung in die Suchmaschinenwurde die Installation und Konfiguration von VuFind vorgenommen und Funktionen von Suchmaschinen am Beispiel von Solr erklärt.
 
-Da im Verlauf des Studiums bereits viel über XML und auch XML Deklarationen erklärt wure, wird in diesem Beitrag nicht darauf eingegangen. Ausserdem ist der Teil zu JSON-APIs ein wenig ausgeartet, weshalb wird das Suchmaschinenthema aufgeschoben in den [nächsten Beitrag](https://tinablabla.github.io/bainotes/2020/12/11/Suchmaschinen.html).
+Da im Verlauf des Studiums bereits viel über XML und auch XML Deklarationen erklärt wure, wird in diesem Beitrag nicht darauf eingegangen. Ausserdem ist der Teil zu JSON-APIs ein wenig ausgeartet, weshalb wird das Suchmaschinenthema aufgeschoben in den [nächsten Beitrag](https://tinablabla.github.io/bainotes/2020/12/11/VuFind-&-Solr.html).
 
 ## Vergleich von anderen Datenbearbeitungsprogramme
 Neben OpenRefine werden noch andere Tools angesprochen:
