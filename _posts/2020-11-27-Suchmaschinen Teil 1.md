@@ -5,7 +5,7 @@ Da in der letzten Vorlesung viele Themen nicht angesprochen werden konnten, wurd
 Da im Verlauf des Studiums bereits viel über XML und auch XML Deklarationen erklärt wure, wird in diesem Beitrag nicht darauf eingegangen.
 
 ## Vergleich von anderen Datenbearbeitungsprogramme
-Neben OpenRefine werden noch andere Tools angesprchen:
+Neben OpenRefine werden noch andere Tools angesprochen:
 - [Catmandu](https://librecat.org)
 - [Metafacture](https://github.com/metafacture/metafacture-core)
 - [MarcEdit](https://marcedit.reeset.net)
@@ -23,4 +23,12 @@ Bereits in einem [vorletztem Kurs](https://tinablabla.github.io/bainotes/2020/10
 
 Moderne Schnittstellen liefern häufig Antworten in JSON-Format anstatt XML, wie bei SRU oder OAI. JSON steht für JavaScript Object Notation und ist ein kompaktes Datenformat in einer lesbaren Textform. Es dient, wie an den Schnittstellen zu sehen, dem Zweck des Datensaustausches zwischen Anwendungen. Es ist Programmiersprachen unabhängig. Im [letzten Kurs](https://tinablabla.github.io/bainotes/2020/11/20/OpenRefine.html) haben wir Daten aus einer Schnittstelle in das OpenRefine Tool gezogen, welche ebenfalls in JSON formatiert waren.
 
-Zu diesen JSON-APIs wurde eine API und ein Tool vorgestellt. Als API kann [loid-gnd](https://lobid.org/gnd/api) genutzt werden. Ausserdem konnten wir einen Einblick in [scrAPIr](https://scrapir.org) erhalten. Das Tool ermöglicht es, Daten aus Webseiten zu beziehen. Die Webseiten stellen somit eigene APIs zur verfügung und werden mit Hilfe von scrAPIr abgefragt. Da das Tool Vorlagen für den Code in JS und Python zur Verfügung stellt, ist es auch eine nützliche Art einfache Programmierbefehle zu lernen. 
+Zu diesen JSON-APIs wurde eine API und ein Tool vorgestellt. Als API kann [loid-gnd](https://lobid.org/gnd/api) genutzt werden. Ausserdem konnten wir einen Einblick in [scrAPIr](https://scrapir.org) erhalten. Das Tool ermöglicht es, Daten aus Webseiten zu beziehen. Die Webseiten stellen somit eigene APIs zur verfügung und werden mit Hilfe von scrAPIr abgefragt. Da das Tool Vorlagen für den Code in JS und Python zur Verfügung stellt, ist es auch eine nützliche Art einfache Programmierbefehle zu lernen.
+
+#### Nachtrag
+Dieser Beitrag ist nun eine Weile her, doch wurde er wieder aktuell für mich. Seit einigen Tagen geht die GameStop-Aktie aufgrund des Subreddits WallStreetBets durch die Decke.
+
+```import requests
+url = "https://www.reddit.com/search.json"
+querystring = {"q":"GME","sort":"top","t":"day","limit":"100","count":2}
+response = requests.request("GET", url, params=querystring)```
