@@ -28,8 +28,8 @@ Zu diesen JSON-APIs wurde eine API und ein Tool vorgestellt. Als API kann [loid-
 Da ich liebend gerne mit solchen Tools herumspiele, habe ich dies natürlich getan. Youtube ist eine meiner grössten Zeitvertreibsünden auf dieser Welt, somit ist klar, dass diese Schnittstelle als erstes getestet wird. Die API setzt den Startpunkt mit dem Suchwort "music" mit 50 Suchergebnissen. Ich habe bereits dazu einigen Gedanken : Nach welcher Relevanz gibt das System die Ergebnisse aus? Youtube (wie Social Media Seiten allgemein) bestehen neben Milliarden von Inhalten vor allem aus Algorithmen, die im Hintergrund so viele Daten verarbeiten, wie sie nur können, um den Nutzenden die "perfekten" Ergebnisse anzuzeigen. So sollen Nutzer länger auf der Plattform bleiben, mehr auf ihr interagieren etc. Eine Schnittstelle greift jedoch nicht als normaler Benutzer zu, sondern als System. Wie entscheidet das System, welche Ergebnisse ausgegeben werden? Man könnte denken, es würden ähnliche Ergebnisse angezeigt werden, wie wenn man mit einem Inkognito Browser darauf zugreift, doch dieser Gedanke trügt. Selbst mit einem Inkognito Browser weiss Google mit welchem Betriebssystem du die Seite aufrufst, was erste Anzeichen auf dein Geschlecht und Alter geben können.
 
 Diese Gedanken wecken meine Neugierde und ich öffne mehrere Fenster:
-- Chorome-Fester, mit meinem Login (Spalte: GoogleWeissAlles)
-- ein Chrome-Inkognito-Fenster, ohne Login (Spalte: GoogleWeissFastAlles)
+- Chorome-Fester, mit meinem Login (Spalte: Google Login)
+- ein Chrome-Inkognito-Fenster, ohne Login (Spalte: Google Inkognito)
 - ein Firefox-Fenster, ohne Login (FirefoWindows)
 - ein Firefox-Fenster auf der VM, welche auf Linux läuft, ohne Login (FirefoxLinux)
 
@@ -39,19 +39,21 @@ Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei 
 <tbody>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">Nr.</td>
-<td style="height: 43px; width: 254px;">Google weiss alles</td>
-<td style="height: 43px; width: 209px;">Google weiss fast alles</td>
-<td style="height: 43px; width: 224px;">Firefox Windows</td>
+<td style="height: 43px; width: 210px;">Google weiss alles</td>
+<td style="height: 43px; width: 210px;">Google weiss fast alles</td>
+<td style="height: 43px; width: 210px;">Firefox Windows</td>
 <td style="height: 43px; width: 210px;">Firefox Linux</td>
+<td style="height: 43px; width: 210px;">scrAPIr</td>
 </tr>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">1</td>
-<td style="height: 43px; width: 254px;">
+<td style="height: 43px; width: 210px;">
 <p>"This is bad" (PewDiePie)</p>
 </td>
 <td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
 <td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
-<td style="height: 43px; width: 210px;">&nbsp;"This is bad" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
 </tr>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">2</td>
@@ -59,13 +61,15 @@ Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei 
 <td style="height: 43px; width: 210px;">"Unboxing 100 MIL YouTube AWARD" (PewdDiePie)</td>
 <td style="height: 43px; width: 210px;">"Just Another Day In Russia - #79[REDDIT REVIEW]" (PewDiePie)</td>
 <td style="height: 43px; width: 210px;">"Just Another Day In Russia - #79[REDDIT REVIEW]" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"Conratulations" (PewDiePie)</td>
 </tr>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">3</td>
 <td style="height: 43px; width: 210px;">"was ist mit mir passiert (update video)" (Pocket Hazel)</td>
 <td style="height: 43px; width: 210px;">"I Did A DNA Test... (I Guess Im Cancelled Now)" (PewDiePie)</td>
-<td style="height: 43px; width: 210px;">&nbsp;"Conratulations" (PewDiePie)</td>
-<td style="height: 43px; width: 210px;">&nbsp;"Conratulations" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"Conratulations" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"Conratulations" (PewDiePie)</td>
+<td style="height: 43px; width: 210px;">"Uh oh..." (PewDiePie)</td>
 </tr>
 </tbody>
 </table>
