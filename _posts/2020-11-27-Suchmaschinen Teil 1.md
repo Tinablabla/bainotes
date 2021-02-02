@@ -47,9 +47,7 @@ Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei 
 </tr>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">1</td>
-<td style="height: 43px; width: 210px;">
-<p>"This is bad" (PewDiePie)</p>
-</td>
+<td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
 <td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
 <td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
 <td style="height: 43px; width: 210px;">"This is bad" (PewDiePie)</td>
