@@ -27,20 +27,21 @@ Zu diesen JSON-APIs wurde eine API und ein Tool vorgestellt. Als API kann [loid-
 
 Da ich liebend gerne mit solchen Tools herumspiele, habe ich dies natürlich getan. Youtube ist eine meiner grössten Zeitvertreibsünden auf dieser Welt, somit ist klar, dass diese Schnittstelle als erstes getestet wird. Die API setzt den Startpunkt mit dem Suchwort "music" mit 50 Suchergebnissen. Ich habe bereits dazu einigen Gedanken : Nach welcher Relevanz gibt das System die Ergebnisse aus? Youtube (wie Social Media Seiten allgemein) bestehen neben Milliarden von Inhalten vor allem aus Algorithmen, die im Hintergrund so viele Daten verarbeiten, wie sie nur können, um den Nutzenden die "perfekten" Ergebnisse anzuzeigen. So sollen Nutzer länger auf der Plattform bleiben, mehr auf ihr interagieren etc. Eine Schnittstelle greift jedoch nicht als normaler Benutzer zu, sondern als System. Wie entscheidet das System, welche Ergebnisse ausgegeben werden? Man könnte denken, es würden ähnliche Ergebnisse angezeigt werden, wie wenn man mit einem Inkognito Browser darauf zugreift, doch dieser Gedanke trügt. Selbst mit einem Inkognito Browser weiss Google mit welchem Betriebssystem du die Seite aufrufst, was erste Anzeichen auf dein Geschlecht und Alter geben können.
 
-Diese Gedanken wecken meine Neugierde und ich öffne mehrere Fenster:
+Diese Gedanken wecken meine Neugierde und ich öffne Youtube in mehreren Fenstern:
 - Chorome-Fester, mit meinem Login (Spalte: Google Login)
 - ein Chrome-Inkognito-Fenster, ohne Login (Spalte: Google Inkognito)
 - ein Firefox-Fenster, ohne Login (FirefoWindows)
 - ein Firefox-Fenster auf der VM, welche auf Linux läuft, ohne Login (FirefoxLinux)
 
-Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei allen Fenstern gebe ich den Suchbegriff "pewdiepie" ein und stelle im Filter als "Typ" nur Videos ein, da auch in der Schnittstelle nur Videos ausgegeben werden.
+Somit haben wir den Vergleich zwischen verschiedenen Systemen, Browsern und der Abfrage von scrAPIr. Bei allen Fenstern gebe ich den Suchbegriff "pewdiepie" ein und stelle im Filter als "Typ" nur Videos ein, da auch in der Schnittstelle nur Videos ausgegeben werden. Zur Erstellung der Tabelle wurde die Weibseite <https://divtable.com/converter/> verwendet.
+
 
 <table style="width: 923px;">
 <tbody>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">Nr.</td>
-<td style="height: 43px; width: 210px;">Google&nbsp;Login</td>
-<td style="height: 43px; width: 210px;">Google&nbsp;Inkognito</td>
+<td style="height: 43px; width: 210px;">Chrome&nbsp;Login</td>
+<td style="height: 43px; width: 210px;">Chrome&nbsp;Inkognito</td>
 <td style="height: 43px; width: 210px;">Firefox Windows</td>
 <td style="height: 43px; width: 210px;">Firefox Linux</td>
 <td style="height: 43px; width: 210px;">scrAPIr</td>
@@ -71,3 +72,11 @@ Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei 
 </tr>
 </tbody>
 </table>
+
+Es ist interessant zu sehen, dass zumindest das erste Video bei allen Abfragen das selbe Ergebnis ergibt. Chrome möchte anscheinend, dass ich mir das Unboxig Video ansehe, hingegen schlägt mir Firefox ein Reddit Review vor, egal auf welchem Betriebssystem ich mich befinde. scrAPIr zieht als zweites Video jedoch das Musikvideo "Congratulations", welches zumindest bei Firefox an dritter Stelle angezeigt wird. Chrome kann sich für den dritten Platz nicht entscheiden und gibt mir mit Login die Empfehlung einer deutschen Youtuberin, von welcher ich in den letzten 6 Monaten kein Video mehr gesehen habe. Im Inkognito wird mir wieder ein PewDiePie Video vorgeschlagen, welches sonst nirgends unter den ersten drei zu finden ist. Das selbe gilt für scrAPIr: Auch dort wird auf dem Dritten Platz ein anderes Video vorgeschlagen als "üblich".
+
+#### Fazit
+Dieser Vergleich zeigt, wie unterschiedlich die Empfehlungen von Youtube sein kann. Es überrascht jedoch, dass die selben Ergebnisse für unterschiedliche Betriebssysteme angezeigt werden, somit könnte daraus geschlossen werden, dass der Algorithmus den Browser als Angabe bevorzugt. Ebenfalls ist es interessant zu sehen wie unterschiedlich die Ergebnisse mit und ohne Login sind: Sie unterscheiden sich auf Chrome nur auf dem dritten Platz, jedoch wird mit Login ein Video einer deutschen Youtuberin bevorzugt, obwohl ich seit längerem kein Video mehr von ihr geschaut habe aber regelmässig Videos von PewDiePie anschaue. Ich könnte mir das Ergebnis so erklären, dass der Algorithmus Videos mit viel Interaktion (Likes, Views, Kommentaren) in der Auflistung bevorzugt, dadurch das neuste Video als erstes angegeben wird. Als zweites wird auf den Browser geachtet, denn diese Ergebnisse sind deckungsgleich. Der dritte Vorschlag erinnert bei der Chrome-mit-Login-Suche an eine normale Videoempfehlung aus der Startseite, unabhängig vom Suchbegriff. Da diese Empfehlung bei anderen Browsern fehlt, werden weitere PewDiePie Videos angezeigt. Selbstverständlich ist dieser Versuch keineswegs repräsentativ, aber es ist unglaublich faszinierend zu sehen, was die Unterschiede der Systeme sind.
+
+
+Ich bin ein wenig vom Thema abgeschweift. Ich habe neben der Youtube-Schnittstelle auch noch Reddit ausprobiert, was auch gut funktionierte. Gerade mit der aktuellen [Gamestop-Aktien-Situation](https://www.nzz.ch/finanzen/flashmob-an-der-boerse-wie-kleinanleger-hedge-funds-jagen-und-kurse-in-die-hoehe-treiben-ld.1599017) wäre es spannend ein Python-Programm zu schreiben, um die Posts aus dem Subreddit [Wallstreetbets](https://www.reddit.com/r/wallstreetbets/) zu analysieren. Vielleicht finde ich während den Semesterferien die Zeit dazu :)
