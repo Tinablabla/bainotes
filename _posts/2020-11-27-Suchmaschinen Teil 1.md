@@ -16,3 +16,11 @@ Aus der Präsentation von Prof. Magnus Pfeffer wurde ich noch auf d:swarm aufmer
 ### Quellen:
 - [GitHub - d:swarm Wiki](https://github.com/dswarm/dswarm-documentation/wiki)
 - Pfeffer, Magnus (2016): Open Source Software zur Verarbeitung und Analyse von Metadaten. Hochschule der Medien.
+
+
+## Nutzung von JSON-APIs
+Bereits in einem [vorletztem Kurs](https://tinablabla.github.io/bainotes/2020/10/30/Metadata-Harvesting.html) haben wir über das Thema Schnittstellen und Metadaten Harvesting gesprochen. Nun wurde dies noch weiter ausgeführt.
+
+Moderne Schnittstellen liefern häufig Antworten in JSON-Format anstatt XML, wie bei SRU oder OAI. JSON steht für JavaScript Object Notation und ist ein kompaktes Datenformat in einer lesbaren Textform. Es dient, wie an den Schnittstellen zu sehen, dem Zweck des Datensaustausches zwischen Anwendungen. Es ist Programmiersprachen unabhängig. Im [letzten Kurs](https://tinablabla.github.io/bainotes/2020/11/20/OpenRefine.html) haben wir Daten aus einer Schnittstelle in das OpenRefine Tool gezogen, welche ebenfalls in JSON formatiert waren.
+
+Zu diesen JSON-APIs wurde eine API und ein Tool vorgestellt. Als API kann [loid-gnd](https://lobid.org/gnd/api) genutzt werden. Ausserdem konnten wir einen Einblick in [scrAPIr](https://scrapir.org) erhalten. Das Tool ermöglicht es, Daten aus Webseiten zu beziehen. Die Webseiten stellen somit eigene APIs zur verfügung und werden mit Hilfe von scrAPIr abgefragt. Da das Tool Vorlagen für den Code in JS und Python zur Verfügung stellt, ist es auch eine nützliche Art einfache Programmierbefehle zu lernen. 
