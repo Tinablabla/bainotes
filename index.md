@@ -10,6 +10,6 @@ Zu Ehren eines Leistungsnachweises des Moduls Bibliothek- und Archivinformatik (
 7. [Metadata Harvesting](https://tinablabla.github.io/bainotes/2020/10/30/Metadata-Harvesting.html)
 8. [OpenRefine](https://tinablabla.github.io/bainotes/2020/11/20/OpenRefine.html)
 9. [JSON-Schnittstellen](https://tinablabla.github.io/bainotes/2020/11/27/JSON-Schnittstellen.html)
-10. [Suchmaschinen](https://tinablabla.github.io/bainotes/2020/12/11/Suchmaschinen.html)
+10. [VuFind & Solr](https://tinablabla.github.io/bainotes/2020/12/11/VuFind-&-Solr.html)
 11. [Linked Data]()
 12. [Schlussstrich](https://tinablabla.github.io/bainotes/2020/12/19/Schlussstrich.html)
