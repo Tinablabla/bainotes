@@ -39,8 +39,8 @@ Somit haben wir den vergleich zwischen verschiedenen Systemen und Browsern. Bei 
 <tbody>
 <tr style="height: 43px;">
 <td style="height: 43px; width: 25px;">Nr.</td>
-<td style="height: 43px; width: 210px;">Google weiss alles</td>
-<td style="height: 43px; width: 210px;">Google weiss fast alles</td>
+<td style="height: 43px; width: 210px;">Google&nbsp;Login</td>
+<td style="height: 43px; width: 210px;">Google&nbsp;Inkognito</td>
 <td style="height: 43px; width: 210px;">Firefox Windows</td>
 <td style="height: 43px; width: 210px;">Firefox Linux</td>
 <td style="height: 43px; width: 210px;">scrAPIr</td>
