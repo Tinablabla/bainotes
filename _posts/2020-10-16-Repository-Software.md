@@ -26,16 +26,16 @@ CMISTAR wird in der ETH sowie im Stadtarchiv Uster verwenndet und ist mir persö
 [Open-Access.net](https://open-access.net/informationen-zu-open-access/repositorien):
 >Repositorien sind an Universitäten oder Forschungseinrichtungen betriebene Dokumentenserver, auf denen wissenschaftliche Materialien archiviert und weltweit entgeltfrei zugänglich gemacht werden.
 
-Es können verschiedne Objekte in einem Repository verwaltet werden. Beispiele dazu sind
+Es können verschiedene Objekte in einem Repository verwaltet werden. Beispiele dazu sind:
 - Software
-- Metadaten und
-- Dokumente.
+- Metadaten
+- Dokumente
 
-In vielen Fällen beinhltet ein Repository auch eine Funktion zu Versionsverwaltung. Ausserdem werden sie häufig im Dokumenten- und Content-Management eingesetzt und es können Metadaten für die Inhalte vergeben werden.
+In vielen Fällen beinhaltet ein Repository auch eine Funktion zur Versionsverwaltung. Ausserdem werden sie häufig im Dokumenten- und Content-Management eingesetzt und es können Metadaten für die Inhalte vergeben werden.
 
 #### Research Collection der ETH Zürich
 
-Ein mir bekanntes Repository ist die [Research Collection](https://www.research-collection.ethz.ch/) der ETH Zürich. Sie versteht sich als umfassende Datenbank für wissenschaftliche Publikationen, die an der ETH Zürich entstanden sind. Sie wurde als Instrument zur Umsetzung der Open-Access-Policy der ETH Zürich eingeführt, die es erlaubt wissenschaftliche Arbeiten ausserhalb des traditionellen Weges zu veröffentlichen. Ausserdem bietet sie den Forschenden die Möglichkeit, Forschungsdaten als eigenständige Publikation oder als Supplementary Material zu einem Artikel oder Dissertatin zu veröffentlichen. Für Personen, welche die Research Collection durchsuchen wollen, gibt es verschiedene Wege dies zu tun. Einerseits verfügt über ein klassisches Suchfeld und einem Menü. Im Menü erhält man die Möglichkeit nach Organisationseinheiten, Publikationstypen und nach Autoren zu suchen.  Somit erfüllt die Research Collection die Funktionen einer Hochschulbibliographie, eines Open-Access-Repository und eines Forschungsdatenbank-Repository.
+Ein mir bekanntes Repository ist die [Research Collection](https://www.research-collection.ethz.ch/) der ETH Zürich. Sie versteht sich als umfassende Datenbank für wissenschaftliche Publikationen, die an der ETH Zürich entstanden sind. Sie wurde als Instrument zur Umsetzung der Open-Access-Policy der ETH Zürich eingeführt, die es erlaubt wissenschaftliche Arbeiten ausserhalb des traditionellen Weges zu veröffentlichen. Ausserdem bietet sie den Forschenden die Möglichkeit, Forschungsdaten als eigenständige Publikation oder als Supplementary Material zu einem Artikel oder einer Dissertation zu veröffentlichen. Für Personen, welche die Research Collection durchsuchen wollen, gibt es verschiedene Wege dies zu tun. Einerseits verfügt es über ein klassisches Suchfeld und einem Menü. Im Menü erhält man die Möglichkeit nach Organisationseinheiten, Publikationstypen und nach Autoren zu suchen.  Somit erfüllt die Research Collection die Funktionen einer Hochschulbibliographie, eines Open-Access-Repository und eines Forschungsdatenbank-Repository.
 
 Die Software hinter der Research Collection basiert auf DSpace, eine Open Source Sofware, welche auch in der Vorlesung im Rahmen einer Demo ausprobiert werden konnte.
 
@@ -50,7 +50,7 @@ Die Software hinter der Research Collection basiert auf DSpace, eine Open Source
 
 ## DSpace
 
-[DSpace](https://duraspace.org/dspace/) ist eine Open Source Software, welche für die Erfassung, Speicherung und Weiterverbreitung von digitalen Ressourcen verwendet wird. Sie wird meist (wie am Beispiel der ETH Zürich) in Universitäten, Bibliotheken und Forschungseinrichtungen als Repository-Software eingesetzt. Da die Software bei der Entwicklung an das OAIS-Referenzmodell angelehnt wurde, eignet es sich auf für die Langzeitarchivierung und -verfügbarkeit von digitalen Archivalien. Für das Tool gibt es eine umfassende [Dokumentation](https://wiki.lyrasis.org/display/DSDOC6x/DSpace+6.x+Documentation) und ein übersichtliches [Wiki](https://wiki.lyrasis.org/display/DSPACE/), dass die Benutzung und Weiterentwicklung der Software vereinfacht. Der Code für DSpace ist auf [GitHub](https://github.com/DSpace/DSpace/) verfügbar.
+[DSpace](https://duraspace.org/dspace/) ist eine Open Source Software, welche für die Erfassung, Speicherung und Weiterverbreitung von digitalen Ressourcen verwendet wird. Sie wird meist (wie am Beispiel der ETH Zürich) in Universitäten, Bibliotheken und Forschungseinrichtungen als Repository-Software eingesetzt. Da die Software bei der Entwicklung an das OAIS-Referenzmodell angelehnt wurde, eignet es sich auch für die Langzeitarchivierung und -verfügbarkeit von digitalen Archivalien. Für das Tool gibt es eine umfassende [Dokumentation](https://wiki.lyrasis.org/display/DSDOC6x/DSpace+6.x+Documentation) und ein übersichtliches [Wiki](https://wiki.lyrasis.org/display/DSPACE/), welche die Benutzung und Weiterentwicklung der Software vereinfachen. Der Code für DSpace ist auf [GitHub](https://github.com/DSpace/DSpace/) verfügbar.
 
 ## Marktübersicht Repository-Softwares
 
