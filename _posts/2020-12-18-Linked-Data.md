@@ -1,3 +1,10 @@
+---
+title: "Tag 10 : Linked Data"
+date: 2020-12-18
+---
+
+
+
 -- Untertitel --
 
 Heute ist die letzte Vorlesung des BAIN-Kurses dran. Was für eine Reise. Wir haben uns mit vielen Themen befasst und heute wird mit diesem letzten Themenbeitrag einen Schlussstrich gesetzt. Nun ja nicht ganz, _ganz_ am Schluss wird es noch ein Schlussbeitrag geben, der sich mit dem Gelernten auseinandersetzt und einen kleinen Rückblick verschaffen soll.
@@ -9,7 +16,7 @@ BIBFRAME (Bibliographic Framework) ist ein Datenmodell. Wie der Name verrät wir
 
 Das BIBFRAME 2.0 Modell
 
-![Jetpacktocat3](BIBFRAME.png)
+![test]({{site.baseurl}}/pictures/BAIN_Koha_Katalogisierung.PNG)
 
 
 ### Learnings:
