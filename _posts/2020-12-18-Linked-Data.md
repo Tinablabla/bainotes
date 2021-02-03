@@ -16,7 +16,7 @@ BIBFRAME (Bibliographic Framework) ist ein Datenmodell. Wie der Name verrät wir
 
 Das BIBFRAME 2.0 Modell
 
-![test]({{site.baseurl}}/pictures/BAIN_Koha_Katalogisierung.PNG)
+![BIBFRAME-Modell]({{site.baseurl}}/pictures/BIBFRAME.png)
 
 
 ### Learnings:
