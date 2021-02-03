@@ -1,3 +1,9 @@
+---
+title: "Metadaten im Archiv"
+date: 2020-10-09
+---
+
+
 -- Von Metadatenstandards und dem Archivsystem ArchivesSpace --
 
 In der Vorlesung vom 10. Oktober 2020 wurde sich dem Archivieren gewidmet, genauer gesagt den Metadatenstandards von Archiven und dem ArchivesSpace. Da die Zeit ein wenig knapp berechnet wurde, konnten nicht alle vorgesehenen Punkte dieser Vorlesung abgehandelt werden, so musste zum Beispiel auf zwei Übungen mit ArchivesSpace und die Marktübersicht von Archivsystemen verzichtet werden. Diese wurden in der nächsten Vorlesung behandelt.
