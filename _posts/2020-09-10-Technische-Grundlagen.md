@@ -1,3 +1,9 @@
+---
+title: "Technische Grundlagen"
+date: 2020-09-10
+---
+
+
 -- Was ich über Markdown lernte und wie meine VM versagte --
 
 Da in der ersten Vorlesung auch viele formale Dinge geklärt werden müssen, konnten wir nur grundlegende Themen behandeln. Nach einer ausführlichen Vorstellungsrunde lernten wir [CodiMD](https://pad.gwdg.de/) kennen, was zur Formatierung [Markdown](https://www.markdownguide.org/basic-syntax/) vewendet, konnten unseren Zugriff auf eine für uns persönlich eingerichtete Virtuelle Maschine (VM) beziehen und die VM auch gleich austesten, indem wir verschiedene Unix Shell Übungen bearbeiten konnten.
