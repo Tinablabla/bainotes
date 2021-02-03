@@ -35,7 +35,7 @@ Der Einführungsartikel ist für mich zur Zeit noch ein kleiner Spielplatz für 
 - Markdown kann HTML Tags einbinden
 
 ### Quellen:
-Markdown Guide: <https://www.markdownguide.org/basic-syntax/#html>
+- [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/#html)
 
 
 ## UNIX Shell und Virtual Machines
@@ -49,4 +49,4 @@ Gleich vom ersten Punkt der Liste durfte ich in dieser Vorlesung profitieren. Me
 ### Learnings:
 - Bei Problemen nicht verzagen, Felix Lohmeier fragen.
 
-Zeichen: 4002
+Zeichen: 4121
