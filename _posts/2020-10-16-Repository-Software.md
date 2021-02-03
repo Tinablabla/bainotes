@@ -1,3 +1,9 @@
+---
+title: "Repository Software"
+date: 2020-10-16
+---
+
+
 -- Repositories und ETH Research Collection und Marktüberblick x2 --
 
 Nachdem in der letzten Vorlesung zu wenig Zeit für ArchivesSpace geblieben ist, wurde dies in der heutigen Vorlesung nachgeholt. Wir möchten uns jedoch kurz mit dem Marktüberblick der Archivsysteme auseinandersetzen und Repository-Softwares für Publikationen und Forschungsdaten anschauen. Da ich zeitgleich in diesem Semester Digitale Langzeitarchivierung belege und eine Arbeit über die Langzeitarchivierung von Forschungsdaten schreibe, ist für mich dieses Thema von besonderem Interesse.
