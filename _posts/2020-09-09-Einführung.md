@@ -1,3 +1,9 @@
+---
+title: "Einführung"
+date: 2020-09-09
+---
+
+
 -- Ein Beitrag zum Modul BAIN, meinen Erwartungen und Erfahrungen --
 
 > Im Modul Bibliotheks- und Archivinformatik lernen die Studierenden die in Bibliotheken und Archiven eingesetzten Softwares und Technologien kennen. Funktionsweisen von Bibliothekskatalogen (bis hin zu Cloud-Konzepten), von Publikationsplattformen, Repositories etc. werden erläutert. Verschiedene Suchtechnologien werden analysiert und im Einsatz über unterschiedliche Datenbestände angewandt. Es wird gezeigt, wie Metadatenstandards und Austauschprotokolle eingesetzt und genutzt werden. (Semesterinformation, 2020)
