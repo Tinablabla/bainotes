@@ -1,5 +1,5 @@
 ---
-title: "Tag 10 : Linked Data"
+title: "Linked Data"
 date: 2020-12-18
 ---
 
