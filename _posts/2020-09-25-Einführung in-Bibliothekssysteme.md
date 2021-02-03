@@ -43,6 +43,6 @@ Im Gegenzug ist es in MARC21 möglich, spezifische Codes einzusetzten, um Elemen
 - [DOCPLAYER - Compaison of Dublin Core and MARC/MARC21](https://docplayer.net/37045281-Comparison-of-dublin-core-and-marc-marc21.html)
 
 ## Koha
-Zum Schluss konnten wir bereits Vorbereitungen für die nächste Vorlesung treffen, indem wir das Open Source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen.
+Zum Schluss konnten wir bereits Vorbereitungen für die [nächste Vorlesung](https://tinablabla.github.io/bainotes/2020/10/02/Koha.html) treffen, indem wir das Open Source Bibliotheksprogramm Koha installieren und konfigurieren konnten. Leider funktionierte auch dies nicht problemlos. Irgendwo hatte ich eine Zeile UNIX Shell Befehle vergessen, was zu einer fehlerhaften Installation führte. Herr Lohmeier wird dem Problem nachgehen.
 
-Zeichen: 4207(Ohne Nachtrag)
+Zeichen: 4060 (Ohne Nachtrag)
