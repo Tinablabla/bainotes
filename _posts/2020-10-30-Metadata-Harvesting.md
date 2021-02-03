@@ -1,3 +1,8 @@
+---
+title: "Metadata Harvesting"
+date: 2020-10-30
+---
+
 -- Metataden ernten und VuFindHarvest --
 
 Im Kurs wurde das Thema Schnittstellen mehrmals angesprochen, jedoch möchten wir heute genau klären, was es damit auf sich hat und nochmals mit bereits bekannten Schnittstellen arbeiten.
