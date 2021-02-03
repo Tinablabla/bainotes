@@ -1,3 +1,10 @@
+---
+title: "VuFind & Solr"
+date: 2020-12-11
+---
+
+
+
 -- Suchmaschinen und Discovery-Systeme--
 
 In diesem Beitrag möchte ich die Themen vom letzten und dem heutigen Kurs angehen und aus diesem Grund wird der heutige Eintrag über Suchmaschinen und Discovery-Systeme handeln. Wir werden VuFind installieren und konfigurieren und FUnktionen von Suchmaschinen anschauen. Ausserdem gab es in der Vorlesung eine Übung zu Datenintegration und eine Gruppendiskussion zum perfekten Katalog. Zum Schluss wird eine Marktübersicht von Discovery-Systemen behandelt.
