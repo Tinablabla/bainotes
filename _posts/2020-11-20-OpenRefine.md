@@ -1,3 +1,8 @@
+---
+title: "OpenRefine"
+date: 2020-11-20
+---
+
 -- "a powerful tool for working with messy data" --
 
 In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
