@@ -19,11 +19,22 @@ BIBFRAME (Bibliographic Framework) ist ein Datenmodell. Wie der Name verrät wir
 ![BIBFRAME-Modell]({{site.baseurl}}/pictures/BIBFRAME.png)
 
 Das BIBFRAME 2.0 Modell oragnisiert Informationen in drei Abstraktionsebenen: _Work_, _Instance_ und _Item_.
-_Work_ ist das höchste Level und beschreibt das grundsätzliche Konzept der Ressource (z.B: Autor, Themen, Sprache). _Instance_ beschreibt Angaben zum Format und dem Verlag. Auf der letzten Stufe wird die Stufe _Item_ aufgeführt, die Angaben zu einem spezifischen Exemplar beinhalten (z.B: Barcode). DIese Aufteilung erscheint sehr sinnvoll, schliesslich kann ein Buch in verschiedenen Verlagen und in verschiedenen Versionen vorhanden sein. Durch dieses Modell kann so die gleiche Entität für den Titel verwendet werden und auf alle verschiedenen Exemplare geschlossen werden.
+_Work_ ist das höchste Level und beschreibt das grundsätzliche Konzept der Ressource (z.B: Autor:in, Themen, Sprache). _Instance_ beschreibt Angaben zum Format und dem Verlag. Auf der letzten Stufe wird die Stufe _Item_ aufgeführt, die Angaben zu einem spezifischen Exemplar beinhalten (z.B: Barcode). DIese Aufteilung erscheint sehr sinnvoll, schliesslich kann ein Buch in verschiedenen Verlagen und in verschiedenen Versionen vorhanden sein. Durch dieses Modell kann so die gleiche Entität für den Titel verwendet werden und auf alle verschiedenen Exemplare geschlossen werden.
 
-Oben im Modell definiert das Modell Beziehungen zu anderen Klassen: _Agents_, _Subjects_ und _Events_. _Agents_ beinhaltet alle Personen, die am Werk mitgearbeitet haben, also Autoren/Autorinnen, Editoren/Editorinnen, Cover-Artists, Fotografen/Fotografinnen usw. Da ein Werk mehrere Konzepte vereinen kann, soll _Subjects_ die einzelnen Subjekte aufzeigen: Themen, Orte, Ereignisse, Werke oder Gegenstände. 
+Oben im Modell definiert das Modell Beziehungen zu anderen Klassen: _Agents_, _Subjects_ und _Events_. _Agents_ beinhaltet alle Personen, die am Werk mitgearbeitet haben, also Autoren/Autorinnen, Editoren/Editorinnen, Cover-Artists, Fotografen/Fotografinnen usw. Da ein Werk mehrere Konzepte vereinen kann, soll _Subjects_ die einzelnen Subjekte aufzeigen: Themen, Orte, Ereignisse, Werke oder Gegenstände die im Werk behandelt werden. Die (für mich persönlich) am schwersten greifbare Klasse ist _Events_. Auf der Webseite von [Library of Congress](https://www.loc.gov/bibframe/docs/bibframe2-model.html) wird es folgendermassen erklärt: "
+>Occurrences, the recording of which may be the content of a Work.
+
+In der Vorlesung wird ein Beispiel mit einem Theaterstück genannt, welches die Klasse _Event_ sehr gut erklärt:
+>Wenn man eine Aufzeichung eines Theaterstücks hat, dann ist das Theaterstück das Event, denn es ist der Inhalt des Werks nicht das Thema des Werks.
+
+Somit ist BIBFRAME eine Ontologie für Bibliotheksressourcen, welche ähnliche "Felder" aufweist wie MARC, doch durch Linked Data einen neuen Ansatz und vielleicht auch eine andere Philosophie in die Bibliothekswelt bringt.
+
 
 ### Learnings:
+- BIBFRAME ist ein Linked Data Datenmodell für bibliographische Daten
+- basiert auf aktuellen Standards, setzt sie jedoch nicht ganz um
+- Unterteilt zwischen einer Werk-, Instanz- und Exemplarebene und hat unterschiedliche Klassen für die Personen, die mit dem Werk involviert sind, Subjekte die im Werk vorkommen und Events, die Aufzeichnungen von anderen Inhalten besser bezeichnen lässt.
+
 ### Quellen:
 - [Wikipedia - BIBFRAME](https://de.wikipedia.org/wiki/BIBFRAME)
 - [Library of Congress - Overview of the BIBFRAME 2.0 Model](https://www.loc.gov/bibframe/docs/bibframe2-model.html)
