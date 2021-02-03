@@ -29,12 +29,12 @@ In der Praxis kann Markdown in verschiedenen Situationen angewendet werden: Redd
 
 Der Einführungsartikel ist für mich zur Zeit noch ein kleiner Spielplatz für verschiedene Markdown-Befehle. Ich habe mich lange mit der Tabelle herumgeschlagen. Dabei habe ich herausgefunden, dass viele Tags aus dem HTML übertragen werden können, da Github Pages das einbinden von HTML Tags unterstützt. So konnte ich zuerst die Tabelle in HTML auszeichnen, bevor ich es dann doch mit ein wenig probieren in Markdown geschafft habe. Da ich schon unbewusst mit Markdown gearbeitet habe, war es für mich ein Leichtes, im gemeinsamen Dokument und auch hier auf dem Blog damit zu arbeiten. Die Auszeichnungssprache erscheint mir sinnvoll und sehr einfach zu lernen. Bis anhin gab es auf den Seiten und Applikationen die ich verwende eine Guidepage ([Github](https://guides.github.com/features/mastering-markdown/), [Reddit](https://www.reddit.com/wiki/markdown), [Discord](https://support.discord.com/hc/de/articles/210298617-Markdown-Text-101-Chat-Formatierung-Fett-Kursiv-Unterstrichen)), wie das Markdown benutzt werden kann. Dabei werden auch die nützlichsten Auszeichnungen aufgezählt und vorgeführt.
 
-### Learnings
+### Learnings:
 - Markdown ist eine Auszeichnungssprache, wie HTML, jedoch nur für Text
 - Soll das Verfassen und Formatieren vereinfachen
 - Markdown kann HTML Tags einbinden
 
-### Quellen
+### Quellen:
 Markdown Guide: <https://www.markdownguide.org/basic-syntax/#html>
 
 
