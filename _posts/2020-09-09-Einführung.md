@@ -91,7 +91,7 @@ Meine Erwartungen an den Kurs sind relativ neutral gehalten. Da ich den Kurs im 
 
 Wo immer Quellen benutzt wurden, sind diese angegeben. Für alle Beiträge wurden das [Skript](https://bain.felixlohmeier.de/#/) und das [gemeinsame Dokument](https://pad.gwdg.de/Tf-htntTR8COelT3Wgodzg?view) zu Rate gezogen, diese werden jedoch nicht spezifisch unter jedem Beitrag als Quelle ausgewiesen. Zur Orientierung wird jeweils unter den Beiträgen die Anzahl der Zeichen angegeben, wobei die Quellen und Nachträge nicht zu den Zeichen gezählt werden.
 
-Bei der Erstellung der Beiträge hatte ich Probleme mit dem Bildereinfügen. Ich hatte mehrere Methoden probiert und bei [Sandra Flückiger](https://github.com/fluecksandra/fluecksandra.github.io) die Lösung gefuden und implementiert. Ausserdem hat sie eine Art Header in den Beiträgen drin, den ich ebenfalls übernommen habe.
+Bei der Erstellung der Beiträge hatte ich Probleme mit dem Einfügen der Bilder. Ich hatte mehrere Methoden probiert und bei [Sandra Flückiger](https://github.com/fluecksandra/fluecksandra.github.io) die Lösung gefunden und diese implementiert. Ausserdem hat sie eine Art Header in den Beiträgen drin, den ich ebenfalls übernommen habe.
 
 **Links**
 
