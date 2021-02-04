@@ -5,9 +5,9 @@ date: 2020-12-11
 
 
 
--- Suchmaschinen und Discovery-Systeme--
+-- Suchmaschinen und Discovery-Systeme --
 
-In diesem Beitrag möchte ich die Themen vom letzten und dem heutigen Kurs angehen und aus diesem Grund wird der heutige Eintrag über Suchmaschinen und Discovery-Systeme handeln. Wir werden VuFind installieren und konfigurieren und FUnktionen von Suchmaschinen anschauen. Ausserdem gab es in der Vorlesung eine Übung zu Datenintegration und eine Gruppendiskussion zum perfekten Katalog. Zum Schluss wird eine Marktübersicht von Discovery-Systemen behandelt.
+In diesem Beitrag möchte ich die Themen vom letzten und dem heutigen Kurs angehen und aus diesem Grund wird der heutige Eintrag über Suchmaschinen und Discovery-Systeme handeln. In der Vorlesung wurde VuFind installiert und konfiguriert und Funktionen von Suchmaschinen angeschaut. Ausserdem gab es in der Vorlesung eine Übung zu Datenintegration und eine Gruppendiskussion zum perfekten Katalog. Zum Schluss wird eine Marktübersicht von Discovery-Systemen behandelt.
 
 ## Unterschied Discovery-System und Suchmaschine
 Wichtig anzumerken ist der Unteschied zwischen Discovery-Systemen und Suchmaschinen:
@@ -25,10 +25,10 @@ Beispiele für Suchmaschinen sind Google, Bing und Solr.
 [Wikipedia-Artikel zu Discovery-System](https://de.wikipedia.org/wiki/Suchmaschine)
 >Discovery-Systeme sind bibliothekarische Suchsysteme, die auf Suchmaschinentechnologie beruhen. Die sind Bestandteil des Konzepts der Bibliothek 2.0 und sollen die bisherigen OPAC-Kataloge ergänzen oder gar ersetzen.
 
-Somit ist ein Discovery-System eine Art Suchmaschinem jedoch sich die Begriffe nicht gleich zu setzten. Ein Beispiel für ein Discovery-System ist VuFind.
+Somit ist ein Discovery-System eine Art Suchmaschine, jedoch sind die Begriffe nicht gleichzusetzten. Ein Beispiel für ein Discovery-System ist VuFind.
 
 ## VuFind
-Wir hatten bereits eine Begegnung mit VuFind in der [Metadata Harvesting Lektion](https://tinablabla.github.io/bainotes/2020/10/30/Metadata-Harvesting.html). Dort haben wir mit dem VuFindHarvest Tool gearbeitet, um Metadaten zu "ernten". VuFind ist eine Open Source Software, die ein Portal für Bibliotheksressourcen ist. Den Benutzern soll das Suchen und das Browsen durch die Ressourcen vereinfachen und den traditionellen OPAC ersetzen. Es soll Katalogdatensätze, Bibliotheksobjekte, Repositories und eine Bibliographie vereinen. Der Sourcecode ist auf [GitHub](https://github.com/vufind-org/vufind) zu finden.
+Wir hatten bereits eine Begegnung mit VuFind in der [Metadata Harvesting Lektion](https://tinablabla.github.io/bainotes/2020/10/30/Metadata-Harvesting.html). Dort haben wir mit dem VuFindHarvest Tool gearbeitet, um Metadaten zu "ernten". VuFind ist eine Open Source Software, die ein Portal für Bibliotheksressourcen ist. Den Benutzern soll das Suchen und das Browsen durch die Ressourcen vereinfacht werden. Es soll Katalogdatensätze, Bibliotheksobjekte, Repositories und eine Bibliographie vereinen. Der Sourcecode ist auf [GitHub](https://github.com/vufind-org/vufind) zu finden.
 
 
 ## Solr
