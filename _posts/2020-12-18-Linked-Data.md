@@ -38,3 +38,5 @@ Somit ist BIBFRAME eine Ontologie für Bibliotheksressourcen, welche ähnliche "
 ### Quellen:
 - [Wikipedia - BIBFRAME](https://de.wikipedia.org/wiki/BIBFRAME)
 - [Library of Congress - Overview of the BIBFRAME 2.0 Model](https://www.loc.gov/bibframe/docs/bibframe2-model.html)
+
+Zeichen: 3530
