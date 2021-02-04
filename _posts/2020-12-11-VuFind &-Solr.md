@@ -44,3 +44,5 @@ Es gibt eine ausführliche [Dokumentation](https://lucene.apache.org/solr/guide/
 - [VuFind - About](https://vufind.org/vufind/about.html)
 - [Wikipedia - Apache Solr](https://en.wikipedia.org/wiki/Apache_Solr)
 - [Solr](https://lucene.apache.org/solr/)
+
+Zeichen: 2900
