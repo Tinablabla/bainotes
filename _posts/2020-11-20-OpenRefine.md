@@ -7,7 +7,7 @@ date: 2020-11-20
 
 In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
 
-Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht. Jedoch interessiert mich dieses Tool sehr, da das Arbeiten mit Daten eine kleine Leidenschaft von mir ist. Ich bin nur noch nicht sonderlich gut darin :) aber an dem lässt sich Arbeiten!
+Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf eine Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht.
 
 ## Einführung
 
@@ -19,7 +19,7 @@ Ausserdem werden die im Zitat aufgeführte Verwendungszwecke nochmals genauer be
 
 **1. Explore Data**
 
-Das Tool bietet veschiedene Möglichkeiten Daten anzusehen und zu sortieren. Öffentlich zugängliche Daten sind oft nicht uniform, was dazu führt, dass beispielsweise ähnliche Datensätze aus zwei ähnlichen Institutionen kommen, jedoch andere Namen für die selben Begriffe verwenden. Dies führt dazu, dass es zu Inkonsistenzen kommt. Um dies zu vereinheitlichen, bietet OpenRefine ein Facet/Filter-Tab, in dem alle Inhalte einer Spalte o.a. aufgezählt werden und mit wenigen Klicks Inkonsistenzen aufgeklärt werden können. Wichtig zu wissen: Es werden alle Bearbeitungsschritte verfolgt und im Undo/Redo-Tab können diese Bearbeitungen rückgängig gemacht oder wiederholt werden. Ausserdem ist es möglich diese Schritte zu exportieren und in einem anderen Datenset zu wiederholen (ähnlich wie Aktionen in Photoshop).
+Das Tool bietet veschiedene Möglichkeiten, Daten anzusehen und zu sortieren. Öffentlich zugängliche Daten sind oft nicht uniform, was dazu führt, dass beispielsweise ähnliche Datensätze aus zwei ähnlichen Institutionen kommen, jedoch andere Namen für die selben Begriffe verwenden. Dies führt zu Inkonsistenzen im Datensatz. Um dies zu vereinheitlichen, bietet OpenRefine ein Facet/Filter-Tab, in dem alle Inhalte einer Spalte o.a. aufgezählt werden und mit wenigen Klicks Inkonsistenzen aufgeklärt werden können. Wichtig zu wissen: Es werden alle Bearbeitungsschritte verfolgt und im Undo/Redo-Tab können diese Bearbeitungen rückgängig gemacht oder wiederholt werden. Ausserdem ist es möglich diese Schritte zu exportieren und in einem anderen Datenset zu wiederholen (ähnlich wie Aktionen in Photoshop).
 
 **2. Clean and Transform Data**
 
@@ -30,7 +30,7 @@ Daten können in verschiedenen Formen auftreten. Manchmal hat man eine Liste, m�
 Mit Hilfe von Webservices ist es möglich, die eigenen Daten zu verlinken und zu erweitern. Einer davon ist Wikidata.
 
 
-Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/documentation.html), die den Usern und Entwikcklern helfen können. Ausserdem gibt es eine [Library Carpentry Lesson](https://librarycarpentry.org/lc-open-refine/) zu OpenRefine, welche wir als Hausaufgabe lösten.
+Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/documentation.html), die den Usern und Entwicklern helfen können. Ausserdem gibt es eine [Library Carpentry Lesson](https://librarycarpentry.org/lc-open-refine/) zu OpenRefine, welche wir als Hausaufgabe lösten.
 
 ## Carpentry Lesson: OpenRefine
 Nachdem wir nun die Grundlagen über das Tool erfahren haben, wenden wir uns nun der Lesson zu. Zu jeder Aufgabe, bei der ich etwas wichtiges lerne oder erfahre, werde ich es hier festhalten.
@@ -122,4 +122,7 @@ First of: HOLY SHIT IT WORKED!
 
 Dieses Tool ist mir unglaublich sympatisch. Mit ein wenig Einführung kann man schon unglaublich nützliche Befehle lernen und die Daten sind schon nach kurzer Zeit bearbeitet. Die Carpentry Lesson zeigt eigentlich das, was in den Introduction-Videos von OpenRefine gezeigt wird, jedoch viel einfacher erklärt. Es fasziniert mich, wie viel aus der Software herausgeholt werden kann und wie nahtlos die verschiedenen Schnittstellen arbeiten. Ich kann mir gut vorstellen auch in Zukunft damit zu arbeiten.
 
-Zeichen: ![too many to count](https://media.giphy.com/media/ejfQbLsh2rFfi/giphy.gif)
+Zeichen:
+
+
+![too many to count](https://media.giphy.com/media/ejfQbLsh2rFfi/giphy.gif)
