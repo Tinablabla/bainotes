@@ -5,9 +5,9 @@ date: 2020-11-20
 
 -- "a powerful tool for working with messy data" --
 
-In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkentnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
+In der heutigen Vorlesung wurde der zweite Teil der Metadaten und Schnittstellen Thematik angesprochen. Dabei wurde OpenRefine erklärt und verwendet, ausserdem werden Fragen zu den Library Carpentry Lessons geklärt und eine Übung zu CSV nach MARC21-XML mit OpenRefine gelöst. Für diese Vorlesung mussten Aufgaben gelöst werden, da diese die Grundlagen für den Kurs bieten. In diesem Beitrag werden die gewonnenen Erkenntnisse aus den Hausaufgaben und dem Unterricht vermischt. Das Hauptthema in diesem Beitrag wird OpenRefine und die Carpentry Lesson dazu sein.
 
-Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles was man gelernt hat auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss es nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso dieses AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf eine Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht.
+Disclaimer: Mit diesem Beitrag möchte ich etwas anderes ausprobieren. Ich werde die Hausaufgabe lösen und währenddessen ein AHA-Sheet machen, jedoch in elektronischer Form. Ein AHA-Sheet ist (nach meiner Interpretation und Verständnis) ein Blatt Papier, dass während des Lernens mit AHA-Momenten oder wichtigen Fakten ausgefüllt wird. Dies soll den Lerneffekt verstärken, was dazu führt, dass das Gelernte länger im Kopf bleibt. Ausserdem hilft es in der Zukunft: Wenn man ein Thema nochmals anschaut und sich das AHA-Sheet zur Hilfe nimmt, sieht man alles, was man gelernt hat, auf einen Blick. Somit: Geht schneller rein, bleibt länger drin und falls es doch noch weg gehen sollte, hat man etwas, dass das Gelernte zurückholt. Das Sheet muss nicht sonderlich strukturiert sein, ist es jedoch bei mir fast immer. Da ich sowieso ein AHA-Sheet mache, möchte ich dies in diesem Beitrag festhalten. Da ich mich hierbei nicht auf eine Zeichenanzahl begrenzen möchte, bitte ich um Verständnis, falls dieser Beitrag länger wird als gedacht.
 
 ## Einführung
 
@@ -15,7 +15,7 @@ Auf der offiziellen [Website](https://openrefine.org/) wird das Tool folgenderma
 
 >OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 
-Ausserdem werden die im Zitat aufgeführte Verwendungszwecke nochmals genauer beschrieben:
+Ausserdem werden die im Zitat aufgeführten Verwendungszwecke nochmals genauer beschrieben:
 
 **1. Explore Data**
 
@@ -33,7 +33,7 @@ Mit Hilfe von Webservices ist es möglich, die eigenen Daten zu verlinken und zu
 Für die Software git es verschiedene [Dokumentationen](https://openrefine.org/documentation.html), die den Usern und Entwicklern helfen können. Ausserdem gibt es eine [Library Carpentry Lesson](https://librarycarpentry.org/lc-open-refine/) zu OpenRefine, welche wir als Hausaufgabe lösten.
 
 ## Carpentry Lesson: OpenRefine
-Nachdem wir nun die Grundlagen über das Tool erfahren haben, wenden wir uns nun der Lesson zu. Zu jeder Aufgabe, bei der ich etwas wichtiges lerne oder erfahre, werde ich es hier festhalten.
+Nachdem wir nun die Grundlagen über das Tool erfahren haben, wenden wir uns nun der Lesson zu. Zu jeder Aufgabe, bei der ich etwas wichtiges lerne oder erfahre, werde ich hier den AHA-Moment festhalten.
 
 #### Aufgabe 2
 - "Trim leading and trailing whitespace from strings[...]" führt bei einer checked Box dazu, dass wenn Leerschläge das letzte Zeichen eines Feldes sind, die Leerschläge ignoriert werden. So wird ein English_ zu English hinzugezählt.
@@ -52,7 +52,7 @@ Importierbare Datafiles:
 - Zellen teilen: Spalte auswählen -> `Edit cells` -> `Split multi-valued cells`
 - Zellen vereinen: Spalte auswählen -> `Edit cells` -> `Join multi-valued cells`
 - Unterschied `Records` und `Rows`: Rows zählt die einzelnen Reihen, während Records zusammengehörige Reihen verlinkt und nur die Records aufzählt.
-- Gute Trennzeichen zeichenen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt, `,` ist meist ungeeignet, da es häufig vorkommt. Kommt jedoch auf die Daten an und wie sie aufgeteilt werden sollen.
+- Gute Trennzeichen zeichnen sich durch ihre Einzigartigkeit aus, `|` ist sehr beliebt, `,` ist meist ungeeignet, da es häufig vorkommt. Kommt jedoch auf die Daten an und wie sie aufgeteilt werden sollen.
 
 #### Aufgabe 4
 - Für jede Spalte kann ein Facet erstellt werden
@@ -63,7 +63,7 @@ Importierbare Datafiles:
 #### Aufgabe 5
 - Clustering bedeutet gleiche aber inkonsistente Angaben zu vereinen, nützlich bei Variationen von Abkürzungen und ausgeschriebenen Namen ect.
 - Key Collision funktioniert bei gleichen Zeichen aber es fehlen Zeichen oder sind zusätzliche Zeichen vorhanden oder in einer anderen Reihenfolge.
-- Nearest Neighbor zeigt wenn einzelne Buchstaben nicht stimmen (G. Anbalagan / K. Anbalagan), jedoch kann ich hier nicht sicher sein, ob dies korrigiert werden muss. Es gibt schliesslich genug Personen mit den gleichen Nachnamen, die Bücher und Artikel veröffentlichen.
+- Nearest Neighbor zeigt, wenn einzelne Buchstaben nicht stimmen (G. Anbalagan / K. Anbalagan), jedoch kann ich hier nicht sicher sein, ob dies korrigiert werden muss. Es gibt schliesslich genug Personen mit den gleichen Nachnamen, die Bücher und Artikel veröffentlichen.
 
 
 #### Aufgabe 7 & 8
@@ -85,8 +85,9 @@ Importierbare Datafiles:
   - `value.split(",").sort()` -- ^ + alphabetisch sortiert
   - `value.split(",").sort().join(",")` -- ^ + ^ + fügt sie wieder zu einem String zusammen.
   - `value.split(",")[0]` -- ^ + extrahiert eine spezifische Variable (hier die Erste, da 0 der Startpunkt ist)
-  - `value.match(/(.*),(.*)/)` -- Input ist eine regular Expression und es wird ein Array ausgegeben, bei denen die regular Expression zutrifft. `/`signalisieren die regular Expression, `()` signalisieren dass eine Gruppe von Zeichen verglichen wird, `.*` signalisiert dass irgend ein Zeichen garnicht, einmal oder mehrmals vorkommt. Somit wird verglichen: Hat es eine Zelle, die (ein oder mehrere oder kein) Buchstabe(n), gefolgt von einem `,` und (einem, mehreren oder keinem) Buchstaben enthält? -> Wenn etwas gefunden wird, wird die Zelle in einen Array transfomiert.
+  - `value.match(/(.*),(.*)/)` -- Input ist eine regular Expression und es wird ein Array ausgegeben, bei denen die regular Expression zutrifft. `/`signalisieren die regular Expression, `()` signalisieren, dass eine Gruppe von Zeichen verglichen wird, `.*` signalisiert, dass irgend ein Zeichen garnicht, einmal oder mehrmals vorkommt. Somit wird verglichen: Hat es eine Zelle, die (ein oder mehrere oder kein) Buchstabe(n), gefolgt von einem `,` und (einem, mehreren oder keinem) Buchstaben enthält? -> Wenn etwas gefunden wird, wird die Zelle in einen Array transfomiert.
 - `value.match(/(.*),(.*)/).reverse().join(" ")` -- Macht die Funktion von ^ rückängig und fügt alles in einen String.
+
 #### Aufgabe 10
 - Jedes Stück Daten hat ein `type`. OpenRefine kennt die folgenden Datentypen:
   - String ("Beispielname")
