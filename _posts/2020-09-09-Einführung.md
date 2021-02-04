@@ -108,7 +108,7 @@ Markup:
 
 [Zendesk - Formatieren von Text mit Markdown](https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdownhttps://www.markdownguide.org/basic-syntax/#overview)
 
-
+Sonstige:
 
 
 [Zeichenzähler](https://xn--zeichenzhler-ncb.de/de/)
